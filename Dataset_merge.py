@@ -3,10 +3,12 @@ import pandas as pd
 pm25_data = pd.read_csv("deaths-from-PM2.5.csv")
 health_data = pd.read_csv("pm25-air-pollution.csv")
 gdp_data = pd.read_csv("air-pollution-gdp.csv")
+disease_data = pd.read_csv("pm25-disease-burden.csv")
 
 # merging the datasets
 merged_data = pd.merge(pm25_data, health_data, on=['Country', 'Year'], how='outer')
 merged_data = pd.merge(merged_data, gdp_data, on=['Country', 'Year'], how='outer')
+merged_data = pd.merge(merged_data, disease_data, on=['Country', 'Year'], how='outer')
 
 # Renaming the columns
 merged_data.rename(columns={'Absolute deaths from ambient PM2.5 air pollution- State of Global Air': 'Deaths from PM2.5', 
