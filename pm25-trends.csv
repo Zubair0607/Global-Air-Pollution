@@ -1,14 +1,6 @@
 Country,Year,Deaths from PM2.5,PM2.5 levels,GDP per Capita
 Afghanistan,1990,16200.0,,
-Afghanistan,1991,,,
-Afghanistan,1992,,,
-Afghanistan,1993,,,
-Afghanistan,1994,,,
 Afghanistan,1995,21300.0,,
-Afghanistan,1996,,,
-Afghanistan,1997,,,
-Afghanistan,1998,,,
-Afghanistan,1999,,,
 Afghanistan,2000,24900.0,,174.9
 Afghanistan,2001,,,138.7
 Afghanistan,2002,,,179
@@ -105,18 +97,6 @@ Algeria,2018,,22.72761,"4,577.20"
 Algeria,2019,,22.68313,"4,468.50"
 Algeria,2020,,,"3,743.50"
 Algeria,2021,,,"4,160.60"
-American Samoa,1990,,,
-American Samoa,1991,,,
-American Samoa,1992,,,
-American Samoa,1993,,,
-American Samoa,1994,,,
-American Samoa,1995,,,
-American Samoa,1996,,,
-American Samoa,1997,,,
-American Samoa,1998,,,
-American Samoa,1999,,,
-American Samoa,2000,,,
-American Samoa,2001,,,
 American Samoa,2002,,,"8,972.70"
 American Samoa,2003,,,"9,197.70"
 American Samoa,2004,,,"8,958.40"
@@ -907,38 +887,6 @@ Brazil,2018,,11.15102,"9,300.70"
 Brazil,2019,,10.94008,"9,029.80"
 Brazil,2020,,,"7,074.20"
 Brazil,2021,,,"7,972.50"
-British Virgin Islands,1990,,,
-British Virgin Islands,1991,,,
-British Virgin Islands,1992,,,
-British Virgin Islands,1993,,,
-British Virgin Islands,1994,,,
-British Virgin Islands,1995,,,
-British Virgin Islands,1996,,,
-British Virgin Islands,1997,,,
-British Virgin Islands,1998,,,
-British Virgin Islands,1999,,,
-British Virgin Islands,2000,,,
-British Virgin Islands,2001,,,
-British Virgin Islands,2002,,,
-British Virgin Islands,2003,,,
-British Virgin Islands,2004,,,
-British Virgin Islands,2005,,,
-British Virgin Islands,2006,,,
-British Virgin Islands,2007,,,
-British Virgin Islands,2008,,,
-British Virgin Islands,2009,,,
-British Virgin Islands,2010,,,
-British Virgin Islands,2011,,,
-British Virgin Islands,2012,,,
-British Virgin Islands,2013,,,
-British Virgin Islands,2014,,,
-British Virgin Islands,2015,,,
-British Virgin Islands,2016,,,
-British Virgin Islands,2017,,,
-British Virgin Islands,2018,,,
-British Virgin Islands,2019,,,
-British Virgin Islands,2020,,,
-British Virgin Islands,2021,,,
 Brunei,2010,,8.33369,
 Brunei,2011,,8.41756,
 Brunei,2012,,7.61957,
@@ -1219,22 +1167,6 @@ Cape Verde,2016,,31.82663,
 Cape Verde,2017,,32.59455,
 Cape Verde,2018,,31.19557,
 Cape Verde,2019,,31.08072,
-Cayman Islands,1990,,,
-Cayman Islands,1991,,,
-Cayman Islands,1992,,,
-Cayman Islands,1993,,,
-Cayman Islands,1994,,,
-Cayman Islands,1995,,,
-Cayman Islands,1996,,,
-Cayman Islands,1997,,,
-Cayman Islands,1998,,,
-Cayman Islands,1999,,,
-Cayman Islands,2000,,,
-Cayman Islands,2001,,,
-Cayman Islands,2002,,,
-Cayman Islands,2003,,,
-Cayman Islands,2004,,,
-Cayman Islands,2005,,,
 Cayman Islands,2006,,,"87,085.10"
 Cayman Islands,2007,,,"89,888.30"
 Cayman Islands,2008,,,"89,655.10"
@@ -1325,14 +1257,6 @@ Chad,2018,,42.60818,695.6
 Chad,2019,,41.15263,678.1
 Chad,2020,,,622.1
 Chad,2021,,,660.7
-Channel Islands,1990,,,
-Channel Islands,1991,,,
-Channel Islands,1992,,,
-Channel Islands,1993,,,
-Channel Islands,1994,,,
-Channel Islands,1995,,,
-Channel Islands,1996,,,
-Channel Islands,1997,,,
 Channel Islands,1998,,,"40,472.70"
 Channel Islands,1999,,,"42,443.70"
 Channel Islands,2000,,,"43,479.20"
@@ -1343,7 +1267,6 @@ Channel Islands,2004,,,"56,259.50"
 Channel Islands,2005,,,"57,647.10"
 Channel Islands,2006,,,"62,745.10"
 Channel Islands,2007,,,"74,140.00"
-Channel Islands,2008,,,
 Channel Islands,2009,,,"57,778.50"
 Channel Islands,2010,,,"56,121.60"
 Channel Islands,2011,,,"60,419.20"
@@ -1637,198 +1560,6 @@ Cote d'Ivoire,2018,,41.80919,"2,130.90"
 Cote d'Ivoire,2019,,40.41493,"2,141.80"
 Cote d'Ivoire,2020,,,"2,179.70"
 Cote d'Ivoire,2021,,,"2,456.00"
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1990,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1991,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1992,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1993,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1994,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1995,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1996,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1997,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1998,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",1999,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2000,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2001,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2002,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2003,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2004,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2005,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2006,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2007,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2008,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2009,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2010,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2011,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2012,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2013,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2014,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2015,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2016,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2017,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2018,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2019,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2020,,,
-"Created from: World Development Indicators
-Series : GDP per capita (current US$)
-
-
-
-",2021,,,
 Croatia,1990,3800.0,,"5,369.10"
 Croatia,1991,,,"4,000.90"
 Croatia,1992,,,"2,321.20"
@@ -1892,17 +1623,6 @@ Cuba,2017,,14.76059,"8,610.60"
 Cuba,2018,,14.28114,"8,911.50"
 Cuba,2019,,13.31979,"9,232.30"
 Cuba,2020,,,"9,605.30"
-Cuba,2021,,,
-Curacao,1990,,,
-Curacao,1991,,,
-Curacao,1992,,,
-Curacao,1993,,,
-Curacao,1994,,,
-Curacao,1995,,,
-Curacao,1996,,,
-Curacao,1997,,,
-Curacao,1998,,,
-Curacao,1999,,,
 Curacao,2000,,,"15,841.30"
 Curacao,2001,,,"16,609.80"
 Curacao,2002,,,"16,723.70"
@@ -2300,7 +2020,6 @@ Equatorial Guinea,2019,,25.66867,"6,804.10"
 Equatorial Guinea,2020,,,"5,764.10"
 Equatorial Guinea,2021,,,"6,945.60"
 Eritrea,1990,1900.0,,
-Eritrea,1991,,,
 Eritrea,1992,,,265.2
 Eritrea,1993,,,252.1
 Eritrea,1994,,,277.8
@@ -2329,11 +2048,7 @@ Eritrea,2016,,22.30357,
 Eritrea,2017,,23.55812,
 Eritrea,2018,,22.98061,
 Eritrea,2019,,22.74486,
-Eritrea,2020,,,
-Eritrea,2021,,,
 Estonia,1990,1200.0,,
-Estonia,1991,,,
-Estonia,1992,,,
 Estonia,1993,,,"2,685.90"
 Estonia,1994,,,"2,819.10"
 Estonia,1995,1100.0,,"3,134.40"
@@ -2771,38 +2486,6 @@ Ghana,2018,,48.04326,"2,196.60"
 Ghana,2019,,46.04334,"2,186.20"
 Ghana,2020,,,"2,196.50"
 Ghana,2021,,,"2,445.50"
-Gibraltar,1990,,,
-Gibraltar,1991,,,
-Gibraltar,1992,,,
-Gibraltar,1993,,,
-Gibraltar,1994,,,
-Gibraltar,1995,,,
-Gibraltar,1996,,,
-Gibraltar,1997,,,
-Gibraltar,1998,,,
-Gibraltar,1999,,,
-Gibraltar,2000,,,
-Gibraltar,2001,,,
-Gibraltar,2002,,,
-Gibraltar,2003,,,
-Gibraltar,2004,,,
-Gibraltar,2005,,,
-Gibraltar,2006,,,
-Gibraltar,2007,,,
-Gibraltar,2008,,,
-Gibraltar,2009,,,
-Gibraltar,2010,,,
-Gibraltar,2011,,,
-Gibraltar,2012,,,
-Gibraltar,2013,,,
-Gibraltar,2014,,,
-Gibraltar,2015,,,
-Gibraltar,2016,,,
-Gibraltar,2017,,,
-Gibraltar,2018,,,
-Gibraltar,2019,,,
-Gibraltar,2020,,,
-Gibraltar,2021,,,
 Greece,1990,5300.0,,"9,466.70"
 Greece,1991,,,"10,046.70"
 Greece,1992,,,"11,021.00"
@@ -2899,18 +2582,6 @@ Grenada,2018,,10.56853,"10,083.00"
 Grenada,2019,,10.08384,"10,462.80"
 Grenada,2020,,,"8,968.60"
 Grenada,2021,,,"9,622.20"
-Guam,1990,,,
-Guam,1991,,,
-Guam,1992,,,
-Guam,1993,,,
-Guam,1994,,,
-Guam,1995,,,
-Guam,1996,,,
-Guam,1997,,,
-Guam,1998,,,
-Guam,1999,,,
-Guam,2000,,,
-Guam,2001,,,
 Guam,2002,,,"20,910.00"
 Guam,2003,,,"21,877.30"
 Guam,2004,,,"23,618.80"
@@ -3681,38 +3352,6 @@ Kiribati,2018,,7.66936,"1,912.70"
 Kiribati,2019,,7.61811,"1,751.00"
 Kiribati,2020,,,"1,769.40"
 Kiribati,2021,,,"2,253.80"
-"Korea, Dem. People's Rep.",1990,,,
-"Korea, Dem. People's Rep.",1991,,,
-"Korea, Dem. People's Rep.",1992,,,
-"Korea, Dem. People's Rep.",1993,,,
-"Korea, Dem. People's Rep.",1994,,,
-"Korea, Dem. People's Rep.",1995,,,
-"Korea, Dem. People's Rep.",1996,,,
-"Korea, Dem. People's Rep.",1997,,,
-"Korea, Dem. People's Rep.",1998,,,
-"Korea, Dem. People's Rep.",1999,,,
-"Korea, Dem. People's Rep.",2000,,,
-"Korea, Dem. People's Rep.",2001,,,
-"Korea, Dem. People's Rep.",2002,,,
-"Korea, Dem. People's Rep.",2003,,,
-"Korea, Dem. People's Rep.",2004,,,
-"Korea, Dem. People's Rep.",2005,,,
-"Korea, Dem. People's Rep.",2006,,,
-"Korea, Dem. People's Rep.",2007,,,
-"Korea, Dem. People's Rep.",2008,,,
-"Korea, Dem. People's Rep.",2009,,,
-"Korea, Dem. People's Rep.",2010,,,
-"Korea, Dem. People's Rep.",2011,,,
-"Korea, Dem. People's Rep.",2012,,,
-"Korea, Dem. People's Rep.",2013,,,
-"Korea, Dem. People's Rep.",2014,,,
-"Korea, Dem. People's Rep.",2015,,,
-"Korea, Dem. People's Rep.",2016,,,
-"Korea, Dem. People's Rep.",2017,,,
-"Korea, Dem. People's Rep.",2018,,,
-"Korea, Dem. People's Rep.",2019,,,
-"Korea, Dem. People's Rep.",2020,,,
-"Korea, Dem. People's Rep.",2021,,,
 "Korea, Rep.",1990,,,"6,610.00"
 "Korea, Rep.",1991,,,"7,636.90"
 "Korea, Rep.",1992,,,"8,126.70"
@@ -3745,24 +3384,6 @@ Kiribati,2021,,,"2,253.80"
 "Korea, Rep.",2019,,,"31,902.40"
 "Korea, Rep.",2020,,,"31,721.30"
 "Korea, Rep.",2021,,,"35,125.50"
-Kosovo,1990,,,
-Kosovo,1991,,,
-Kosovo,1992,,,
-Kosovo,1993,,,
-Kosovo,1994,,,
-Kosovo,1995,,,
-Kosovo,1996,,,
-Kosovo,1997,,,
-Kosovo,1998,,,
-Kosovo,1999,,,
-Kosovo,2000,,,
-Kosovo,2001,,,
-Kosovo,2002,,,
-Kosovo,2003,,,
-Kosovo,2004,,,
-Kosovo,2005,,,
-Kosovo,2006,,,
-Kosovo,2007,,,
 Kosovo,2008,,,"2,877.40"
 Kosovo,2009,,,"2,794.90"
 Kosovo,2010,,,"2,987.50"
@@ -3912,10 +3533,6 @@ Latin America and the Caribbean (UN),2017,,17.36015,
 Latin America and the Caribbean (UN),2018,,15.45388,
 Latin America and the Caribbean (UN),2019,,14.9579,
 Latvia,1990,3300.0,,
-Latvia,1991,,,
-Latvia,1992,,,
-Latvia,1993,,,
-Latvia,1994,,,
 Latvia,1995,3300.0,,"2,256.80"
 Latvia,1996,,,"2,360.20"
 Latvia,1997,,,"2,609.90"
@@ -4104,10 +3721,6 @@ Liechtenstein,2019,,,"166,907.80"
 Liechtenstein,2020,,,"164,671.10"
 Liechtenstein,2021,,,"196,783.70"
 Lithuania,1990,3800.0,,
-Lithuania,1991,,,
-Lithuania,1992,,,
-Lithuania,1993,,,
-Lithuania,1994,,,
 Lithuania,1995,3800.0,,"2,182.70"
 Lithuania,1996,,,"2,340.70"
 Lithuania,1997,,,"2,844.20"
@@ -4658,12 +4271,7 @@ Mongolia,2019,,41.30377,"4,347.50"
 Mongolia,2020,,,"4,001.30"
 Mongolia,2021,,,"4,517.60"
 Montenegro,1990,300.0,,
-Montenegro,1991,,,
-Montenegro,1992,,,
-Montenegro,1993,,,
-Montenegro,1994,,,
 Montenegro,1995,400.0,,
-Montenegro,1996,,,
 Montenegro,1997,,,"1,375.30"
 Montenegro,1998,,,"1,405.80"
 Montenegro,1999,,,"1,367.90"
@@ -5149,18 +4757,6 @@ Northern America and Europe (UN),2016,,10.70538,
 Northern America and Europe (UN),2017,,10.84737,
 Northern America and Europe (UN),2018,,11.13306,
 Northern America and Europe (UN),2019,,10.04155,
-Northern Mariana Islands,1990,,,
-Northern Mariana Islands,1991,,,
-Northern Mariana Islands,1992,,,
-Northern Mariana Islands,1993,,,
-Northern Mariana Islands,1994,,,
-Northern Mariana Islands,1995,,,
-Northern Mariana Islands,1996,,,
-Northern Mariana Islands,1997,,,
-Northern Mariana Islands,1998,,,
-Northern Mariana Islands,1999,,,
-Northern Mariana Islands,2000,,,
-Northern Mariana Islands,2001,,,
 Northern Mariana Islands,2002,,,"19,227.90"
 Northern Mariana Islands,2003,,,"18,938.90"
 Northern Mariana Islands,2004,,,"18,924.60"
@@ -5797,13 +5393,6 @@ Samoa,2018,,7.77359,"4,231.80"
 Samoa,2019,,7.77989,"4,351.90"
 Samoa,2020,,,"4,099.70"
 Samoa,2021,,,"3,947.60"
-San Marino,1990,,,
-San Marino,1991,,,
-San Marino,1992,,,
-San Marino,1993,,,
-San Marino,1994,,,
-San Marino,1995,,,
-San Marino,1996,,,
 San Marino,1997,,,"37,853.00"
 San Marino,1998,,,"40,126.90"
 San Marino,1999,,,"41,931.80"
@@ -5926,10 +5515,6 @@ Senegal,2019,,38.21284,"1,431.20"
 Senegal,2020,,,"1,461.10"
 Senegal,2021,,,"1,598.10"
 Serbia,1990,6800.0,,
-Serbia,1991,,,
-Serbia,1992,,,
-Serbia,1993,,,
-Serbia,1994,,,
 Serbia,1995,7800.0,,"2,349.40"
 Serbia,1996,,,"3,053.90"
 Serbia,1997,,,"3,573.50"
@@ -6053,25 +5638,6 @@ Singapore,2018,,13.12328,"66,840.60"
 Singapore,2019,,13.33302,"66,081.70"
 Singapore,2020,,,"61,466.80"
 Singapore,2021,,,"79,601.40"
-Sint Maarten (Dutch part),1990,,,
-Sint Maarten (Dutch part),1991,,,
-Sint Maarten (Dutch part),1992,,,
-Sint Maarten (Dutch part),1993,,,
-Sint Maarten (Dutch part),1994,,,
-Sint Maarten (Dutch part),1995,,,
-Sint Maarten (Dutch part),1996,,,
-Sint Maarten (Dutch part),1997,,,
-Sint Maarten (Dutch part),1998,,,
-Sint Maarten (Dutch part),1999,,,
-Sint Maarten (Dutch part),2000,,,
-Sint Maarten (Dutch part),2001,,,
-Sint Maarten (Dutch part),2002,,,
-Sint Maarten (Dutch part),2003,,,
-Sint Maarten (Dutch part),2004,,,
-Sint Maarten (Dutch part),2005,,,
-Sint Maarten (Dutch part),2006,,,
-Sint Maarten (Dutch part),2007,,,
-Sint Maarten (Dutch part),2008,,,
 Sint Maarten (Dutch part),2009,,,"25,528.40"
 Sint Maarten (Dutch part),2010,,,"26,403.80"
 Sint Maarten (Dutch part),2011,,,"27,317.50"
@@ -6274,23 +5840,9 @@ South Korea,2017,,25.81438,
 South Korea,2018,,23.69667,
 South Korea,2019,,24.03774,
 South Sudan,1990,4200.0,,
-South Sudan,1991,,,
-South Sudan,1992,,,
-South Sudan,1993,,,
-South Sudan,1994,,,
 South Sudan,1995,3600.0,,
-South Sudan,1996,,,
-South Sudan,1997,,,
-South Sudan,1998,,,
-South Sudan,1999,,,
 South Sudan,2000,3600.0,,
-South Sudan,2001,,,
-South Sudan,2002,,,
-South Sudan,2003,,,
-South Sudan,2004,,,
 South Sudan,2005,3500.0,,
-South Sudan,2006,,,
-South Sudan,2007,,,
 South Sudan,2008,,,"1,654.20"
 South Sudan,2009,,,"1,323.20"
 South Sudan,2010,4500.0,21.21051,"1,498.30"
@@ -6303,8 +5855,6 @@ South Sudan,2016,,22.37394,
 South Sudan,2017,,21.63901,
 South Sudan,2018,,21.9397,
 South Sudan,2019,,20.18219,
-South Sudan,2020,,,
-South Sudan,2021,,,
 South-East Asia (WHO),2010,,47.65426,
 South-East Asia (WHO),2011,,47.31515,
 South-East Asia (WHO),2012,,48.1556,
@@ -6443,37 +5993,9 @@ St. Lucia,2018,,,"11,642.70"
 St. Lucia,2019,,,"11,794.20"
 St. Lucia,2020,,,"8,411.20"
 St. Lucia,2021,,,"10,459.10"
-St. Martin (French part),1990,,,
-St. Martin (French part),1991,,,
-St. Martin (French part),1992,,,
-St. Martin (French part),1993,,,
-St. Martin (French part),1994,,,
-St. Martin (French part),1995,,,
-St. Martin (French part),1996,,,
-St. Martin (French part),1997,,,
-St. Martin (French part),1998,,,
-St. Martin (French part),1999,,,
-St. Martin (French part),2000,,,
-St. Martin (French part),2001,,,
-St. Martin (French part),2002,,,
-St. Martin (French part),2003,,,
-St. Martin (French part),2004,,,
-St. Martin (French part),2005,,,
-St. Martin (French part),2006,,,
-St. Martin (French part),2007,,,
-St. Martin (French part),2008,,,
-St. Martin (French part),2009,,,
-St. Martin (French part),2010,,,
 St. Martin (French part),2011,,,"20,930.60"
-St. Martin (French part),2012,,,
-St. Martin (French part),2013,,,
 St. Martin (French part),2014,,,"20,638.80"
-St. Martin (French part),2015,,,
-St. Martin (French part),2016,,,
-St. Martin (French part),2017,,,
-St. Martin (French part),2018,,,
 St. Martin (French part),2019,,,"19,033.10"
-St. Martin (French part),2020,,,
 St. Martin (French part),2021,,,"21,668.40"
 St. Vincent and the Grenadines,1990,,,"2,149.70"
 St. Vincent and the Grenadines,1991,,,"2,270.80"
@@ -7031,17 +6553,6 @@ Turkmenistan,2018,,29.17182,"6,125.10"
 Turkmenistan,2019,,26.40925,"6,648.00"
 Turkmenistan,2020,,,"6,592.60"
 Turkmenistan,2021,,,"7,051.20"
-Turks and Caicos Islands,1990,,,
-Turks and Caicos Islands,1991,,,
-Turks and Caicos Islands,1992,,,
-Turks and Caicos Islands,1993,,,
-Turks and Caicos Islands,1994,,,
-Turks and Caicos Islands,1995,,,
-Turks and Caicos Islands,1996,,,
-Turks and Caicos Islands,1997,,,
-Turks and Caicos Islands,1998,,,
-Turks and Caicos Islands,1999,,,
-Turks and Caicos Islands,2000,,,
 Turks and Caicos Islands,2001,,,"18,325.70"
 Turks and Caicos Islands,2002,,,"17,803.90"
 Turks and Caicos Islands,2003,,,"18,859.20"
@@ -7390,13 +6901,6 @@ Venezuela,2019,,16.21392,
 "Venezuela, RB",2012,,,"12,901.40"
 "Venezuela, RB",2013,,,"12,403.10"
 "Venezuela, RB",2014,,,"15,943.60"
-"Venezuela, RB",2015,,,
-"Venezuela, RB",2016,,,
-"Venezuela, RB",2017,,,
-"Venezuela, RB",2018,,,
-"Venezuela, RB",2019,,,
-"Venezuela, RB",2020,,,
-"Venezuela, RB",2021,,,
 Viet Nam,1990,,,98.8
 Viet Nam,1991,,,143.7
 Viet Nam,1992,,,144.5
@@ -7443,18 +6947,6 @@ Vietnam,2016,,22.37486,
 Vietnam,2017,,20.09941,
 Vietnam,2018,,20.09202,
 Vietnam,2019,,20.8923,
-Virgin Islands (U.S.),1990,,,
-Virgin Islands (U.S.),1991,,,
-Virgin Islands (U.S.),1992,,,
-Virgin Islands (U.S.),1993,,,
-Virgin Islands (U.S.),1994,,,
-Virgin Islands (U.S.),1995,,,
-Virgin Islands (U.S.),1996,,,
-Virgin Islands (U.S.),1997,,,
-Virgin Islands (U.S.),1998,,,
-Virgin Islands (U.S.),1999,,,
-Virgin Islands (U.S.),2000,,,
-Virgin Islands (U.S.),2001,,,
 Virgin Islands (U.S.),2002,,,"30,062.00"
 Virgin Islands (U.S.),2003,,,"31,731.30"
 Virgin Islands (U.S.),2004,,,"35,006.40"
@@ -7475,10 +6967,6 @@ Virgin Islands (U.S.),2018,,,"36,663.20"
 Virgin Islands (U.S.),2019,,,"38,633.50"
 Virgin Islands (U.S.),2020,,,"39,787.40"
 Virgin Islands (U.S.),2021,,,"42,571.10"
-West Bank and Gaza,1990,,,
-West Bank and Gaza,1991,,,
-West Bank and Gaza,1992,,,
-West Bank and Gaza,1993,,,
 West Bank and Gaza,1994,,,"1,201.60"
 West Bank and Gaza,1995,,,"1,326.60"
 West Bank and Gaza,1996,,,"1,317.50"
