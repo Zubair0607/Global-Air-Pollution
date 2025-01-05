@@ -3,7 +3,7 @@ import pandas as pd
 pm25_data = pd.read_csv("deaths-from-PM2.5.csv")
 health_data = pd.read_csv("pm25-air-pollution.csv")
 
-merged_data = pd.merge(pm25_data, health_data, on=['Year', 'Entity'])
+merged_data = pd.merge(pm25_data, health_data, on=['Entity', 'Year'], how='outer')
 
 print(merged_data.head())
 print(merged_data.columns)

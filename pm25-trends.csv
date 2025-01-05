@@ -1,344 +1,2802 @@
 Country,Year,Deaths from PM2.5,PM2.5 levels
-Afghanistan,2010,27600,68.96605
-Afghanistan,2015,29500,67.2032
-Albania,2010,1200,21.9487
-Albania,2015,1500,18.98271
-Algeria,2010,8800,21.27312
-Algeria,2015,12000,22.49486
-Angola,2010,9200,24.1984
-Angola,2015,10200,25.03078
-Argentina,2010,16200,13.13748
-Argentina,2015,16600,14.18288
-Armenia,2010,2300,40.89928
-Armenia,2015,2300,40.58537
-Australia,2010,3000,9.03381
-Australia,2015,3400,6.6018
-Austria,2010,3500,15.62129
-Austria,2015,4000,13.62845
-Azerbaijan,2010,5900,30.1081
-Azerbaijan,2015,6100,29.66727
-Bahamas,2010,100,4.96926
-Bahamas,2015,100,5.32066
-Bahrain,2010,200,55.87221
-Bahrain,2015,200,56.37947
-Bangladesh,2010,110300,49.42935
-Bangladesh,2015,122400,50.62575
-Barbados,2010,100,9.1456
-Barbados,2015,100,10.52567
-Belarus,2010,11500,19.90926
-Belarus,2015,12200,16.49174
-Belgium,2010,5300,16.07608
-Belgium,2015,5600,13.27885
-Belize,2010,100,9.91087
-Belize,2015,100,11.0954
-Benin,2010,4300,30.97376
-Benin,2015,4300,33.10973
-Bhutan,2010,300,29.51405
-Bhutan,2015,400,29.04297
-Bolivia,2010,3600,28.03159
-Bolivia,2015,4100,26.50242
-Bosnia and Herzegovina,2010,2500,34.91059
-Bosnia and Herzegovina,2015,2800,30.73886
-Botswana,2010,600,14.13807
-Botswana,2015,700,12.88574
-Brazil,2010,43100,14.59709
-Brazil,2015,52300,12.04713
-Bulgaria,2010,9300,23.87244
-Bulgaria,2015,9500,20.41206
-Burkina Faso,2010,7300,41.29936
-Burkina Faso,2015,6700,43.63248
-Burundi,2010,3700,27.83957
-Burundi,2015,4600,28.3709
-Cambodia,2010,5600,18.84915
-Cambodia,2015,6100,17.4328
-Cameroon,2010,12800,53.5823
-Cameroon,2015,12900,59.08734
-Canada,2010,6400,7.76265
-Canada,2015,7100,7.15364
-Cape Verde,2010,200,28.17148
-Cape Verde,2015,200,33.37649
-Central African Republic,2010,3800,27.86686
-Central African Republic,2015,4100,29.06455
-Chad,2010,8100,41.64312
-Chad,2015,7800,44.4972
-Chile,2010,5200,22.25415
-Chile,2015,5900,24.15233
-China,2010,1098800,47.18253
-China,2015,1108100,51.76256
-Colombia,2010,9800,17.41506
-Colombia,2015,10900,17.3316
-Comoros,2010,100,13.735
-Comoros,2015,100,14.53778
-Congo,2010,2100,30.35857
-Congo,2015,2400,28.98937
-Costa Rica,2010,700,18.34723
-Costa Rica,2015,1000,18.31777
-Cote d'Ivoire,2010,7800,39.44081
-Cote d'Ivoire,2015,7700,43.7615
-Croatia,2010,3200,20.99358
-Croatia,2015,3500,18.64689
-Cuba,2010,5400,13.32336
-Cuba,2015,6600,14.16391
-Cyprus,2010,300,18.5258
-Cyprus,2015,300,15.12686
-Czechia,2010,7500,20.24895
-Czechia,2015,7800,17.5159
-Denmark,2010,2100,12.26529
-Denmark,2015,2100,10.72585
-Djibouti,2010,400,20.58046
-Djibouti,2015,400,20.38808
-Dominican Republic,2010,2900,7.52421
-Dominican Republic,2015,3300,7.87327
-Ecuador,2010,2900,17.47493
-Ecuador,2015,3000,17.72879
-Egypt,2010,57400,60.83491
-Egypt,2015,60200,61.56171
-El Salvador,2010,1800,26.92661
-El Salvador,2015,2200,27.18434
-Equatorial Guinea,2010,300,24.24799
-Equatorial Guinea,2015,400,27.28679
-Eritrea,2010,1900,22.41942
-Eritrea,2015,2100,22.33113
-Estonia,2010,600,8.46857
-Estonia,2015,700,6.74558
-Eswatini,2010,500,14.96722
-Eswatini,2015,500,14.82998
-Ethiopia,2010,30900,22.26304
-Ethiopia,2015,31100,22.11803
-Fiji,2010,200,7.19301
-Fiji,2015,200,7.32313
-Finland,2010,1400,7.06676
-Finland,2015,1600,5.82623
-France,2010,17800,14.4533
-France,2015,20300,12.20689
-Gabon,2010,700,25.25444
-Gabon,2015,800,26.12616
-Gambia,2010,600,37.46242
-Gambia,2015,600,39.87149
-Georgia,2010,4200,22.83911
-Georgia,2015,3900,22.56939
-Germany,2010,39400,15.05866
-Germany,2015,43100,12.64463
-Ghana,2010,9100,44.15821
-Ghana,2015,8600,50.00957
-Greece,2010,5600,19.70342
-Greece,2015,6700,16.44555
-Guatemala,2010,4200,25.981
-Guatemala,2015,4900,25.41907
-Guinea,2010,5000,36.75639
-Guinea,2015,4600,39.19347
-Guinea-Bissau,2010,1000,33.91065
-Guinea-Bissau,2015,1000,36.11347
-Guyana,2010,200,10.48881
-Guyana,2015,300,11.72288
-Haiti,2010,4100,9.56173
-Haiti,2015,4700,10.14026
-Honduras,2010,2600,22.41273
-Honduras,2015,3100,23.07178
-Hungary,2010,9300,19.48187
-Hungary,2015,8600,17.16101
-Iceland,2010,100,6.90546
-Iceland,2015,100,6.43001
-India,2010,957000,55.16824
-India,2015,1090400,55.47851
-Indonesia,2010,71400,20.59222
-Indonesia,2015,78600,19.34402
-Iran,2010,31500,29.88702
-Iran,2015,33300,29.87318
-Iraq,2010,17500,39.31795
-Iraq,2015,15700,39.05414
-Ireland,2010,1000,9.902
-Ireland,2015,1100,9.16187
-Israel,2010,1800,24.22698
-Israel,2015,2100,21.65498
-Italy,2010,25100,20.11166
-Italy,2015,33700,17.27739
-Jamaica,2010,700,14.58165
-Jamaica,2015,900,15.74704
-Japan,2010,50800,14.2207
-Japan,2015,60600,12.75262
-Jordan,2010,1100,24.53118
-Jordan,2015,1400,25.3359
-Kazakhstan,2010,9400,30.42386
-Kazakhstan,2015,10100,30.83178
-Kenya,2010,6200,12.37721
-Kenya,2015,7000,12.49999
-Kuwait,2010,700,66.5074
-Kuwait,2015,700,66.17386
-Kyrgyzstan,2010,2700,44.68326
-Kyrgyzstan,2015,2700,44.57756
-Laos,2010,3000,22.85893
-Laos,2015,3000,20.54602
-Latvia,2010,2000,16.47888
-Latvia,2015,2100,13.39956
-Lebanon,2010,1600,24.23999
-Lebanon,2015,2100,24.49356
-Lesotho,2010,1100,18.42596
-Lesotho,2015,1100,17.6502
-Liberia,2010,600,32.84865
-Liberia,2015,500,37.68039
-Libya,2010,2000,31.19201
-Libya,2015,2600,29.0747
-Lithuania,2010,2800,13.87189
-Lithuania,2015,2700,11.43758
-Luxembourg,2010,200,12.37609
-Luxembourg,2015,200,10.44694
-Madagascar,2010,6200,16.50359
-Madagascar,2015,7500,16.41895
-Malawi,2010,4500,18.7213
-Malawi,2015,4600,18.80413
-Malaysia,2010,8200,22.67492
-Malaysia,2015,9500,21.43982
-Maldives,2010,100,13.38913
-Maldives,2015,100,12.22996
-Mali,2010,5600,39.03671
-Mali,2015,5100,40.77241
-Malta,2010,200,17.17263
-Malta,2015,200,13.853
-Mauritania,2010,1400,38.90393
-Mauritania,2015,1600,43.67907
-Mauritius,2010,400,10.59822
-Mauritius,2015,400,10.75079
-Mexico,2010,23600,22.13361
-Mexico,2015,29000,21.79878
-Moldova,2010,3500,16.83486
-Moldova,2015,2900,13.60586
-Mongolia,2010,1300,45.20481
-Mongolia,2015,1500,47.78887
-Montenegro,2010,400,26.08957
-Montenegro,2015,400,22.49954
-Morocco,2010,8100,13.1705
-Morocco,2015,9800,13.48392
-Mozambique,2010,6200,16.64926
-Mozambique,2015,6600,16.68126
-Myanmar,2010,28900,29.45053
-Myanmar,2015,31100,26.52866
-Namibia,2010,600,11.93522
-Namibia,2015,600,11.87753
-Nepal,2010,16000,39.77933
-Nepal,2015,18300,39.81822
-Netherlands,2010,6500,15.01226
-Netherlands,2015,6800,12.58504
-New Zealand,2010,600,9.34902
-New Zealand,2015,600,6.93597
-Nicaragua,2010,1000,19.92137
-Nicaragua,2015,1200,20.60811
-Niger,2010,11500,49.54739
-Niger,2015,10600,52.86639
-Nigeria,2010,59800,52.84583
-Nigeria,2015,50900,57.2825
-North Korea,2010,16500,50.40548
-North Korea,2015,18800,56.44233
-North Macedonia,2010,1600,34.53379
-North Macedonia,2015,1600,29.51055
-Norway,2010,1400,7.86369
-Norway,2015,1400,6.8203
-Oman,2010,700,35.53593
-Oman,2015,900,35.84203
-Pakistan,2010,123600,56.40357
-Pakistan,2015,135100,55.89503
-Palestine,2010,800,29.4186
-Palestine,2015,1000,30.4868
-Panama,2010,600,14.12765
-Panama,2015,800,14.86951
-Papua New Guinea,2010,2400,8.65084
-Papua New Guinea,2015,3000,8.96576
-Paraguay,2010,1500,16.36973
-Paraguay,2015,1600,13.00169
-Peru,2010,7700,29.59087
-Peru,2015,8400,30.28824
-Philippines,2010,36200,23.81843
-Philippines,2015,40600,22.05308
-Poland,2010,29400,26.32189
-Poland,2015,27900,22.58791
-Portugal,2010,3600,10.54772
-Portugal,2015,3700,8.67534
-Qatar,2010,200,64.27163
-Qatar,2015,200,65.9073
-Romania,2010,19100,18.05504
-Romania,2015,18100,15.41342
-Russia,2010,138100,11.8813
-Russia,2015,136900,9.48913
-Rwanda,2010,3600,34.39619
-Rwanda,2015,4200,34.68945
-Saint Lucia,2015,100,9.61662
-Saudi Arabia,2010,7000,56.55127
-Saudi Arabia,2015,8000,58.47575
-Senegal,2010,4200,36.73364
-Senegal,2015,5000,39.90025
-Serbia,2010,7600,29.42471
-Serbia,2015,7200,25.33298
-Sierra Leone,2010,2300,36.32017
-Sierra Leone,2015,1900,42.52948
-Singapore,2010,1400,16.89388
-Singapore,2015,1700,16.15997
-Slovakia,2010,3900,21.69566
-Slovakia,2015,3500,19.04978
-Slovenia,2010,900,19.68829
-Slovenia,2015,1000,17.55293
-Solomon Islands,2010,100,7.41903
-Solomon Islands,2015,100,7.85858
-Somalia,2010,4200,14.3522
-Somalia,2015,4300,14.22371
-South Africa,2010,23300,18.69321
-South Africa,2015,24900,19.13945
-South Korea,2010,13800,29.83355
-South Korea,2015,18200,27.60665
-South Sudan,2010,4500,21.21051
-South Sudan,2015,5500,22.0609
-Spain,2010,12800,12.71701
-Spain,2015,13400,11.11022
-Sri Lanka,2010,7400,24.99107
-Sri Lanka,2015,7700,23.08327
-Sudan,2010,18900,22.00686
-Sudan,2015,19200,22.55149
-Suriname,2010,100,11.35987
-Suriname,2015,200,12.95795
-Sweden,2010,1700,7.51618
-Sweden,2015,2200,6.37266
-Switzerland,2010,2200,12.7588
-Switzerland,2015,2500,10.81907
-Syria,2010,6400,25.07604
-Syria,2015,6600,24.75272
-Tajikistan,2010,4100,63.40423
-Tajikistan,2015,4000,63.27915
-Tanzania,2010,11600,15.45167
-Tanzania,2015,13700,15.59429
-Thailand,2010,28500,26.36311
-Thailand,2015,37600,24.10254
-Togo,2010,2500,34.98097
-Togo,2015,2500,38.24957
-Trinidad and Tobago,2010,400,9.79285
-Trinidad and Tobago,2015,500,10.94219
-Tunisia,2010,3600,26.67751
-Tunisia,2015,4500,26.13071
-Turkey,2010,21900,23.73719
-Turkey,2015,26700,22.95707
-Turkmenistan,2010,3100,31.48364
-Turkmenistan,2015,3100,31.44058
-Uganda,2010,13000,31.29329
-Uganda,2015,15100,31.65182
-Ukraine,2010,57700,17.81272
-Ukraine,2015,59000,14.66802
-United Arab Emirates,2010,1700,43.70844
-United Arab Emirates,2015,2600,43.92792
-United Kingdom,2010,26000,13.17134
-United Kingdom,2015,27200,11.08279
-United States,2010,83400,9.28664
-United States,2015,88400,8.31036
-Uruguay,2010,1400,9.18128
-Uruguay,2015,1400,9.90392
-Uzbekistan,2010,16900,48.51926
-Uzbekistan,2015,17500,48.46156
-Vanuatu,2010,100,8.08733
-Vanuatu,2015,100,8.62408
-Venezuela,2010,7500,20.66606
-Venezuela,2015,9300,20.12396
-Vietnam,2010,37000,22.36823
-Vietnam,2015,42200,20.46553
-Yemen,2010,11000,38.82749
-Yemen,2015,12500,41.06106
-Zambia,2010,5600,17.08674
-Zambia,2015,5600,17.4341
-Zimbabwe,2010,4500,13.27519
-Zimbabwe,2015,3800,13.26748
+Afghanistan,1990,16200.0,
+Afghanistan,1995,21300.0,
+Afghanistan,2000,24900.0,
+Afghanistan,2005,26500.0,
+Afghanistan,2010,27600.0,68.96605
+Afghanistan,2011,,66.94454
+Afghanistan,2012,,68.25744
+Afghanistan,2013,,72.18289
+Afghanistan,2014,,68.05715
+Afghanistan,2015,29500.0,67.2032
+Afghanistan,2016,,64.00314
+Afghanistan,2017,,61.77561
+Afghanistan,2018,,70.25405
+Afghanistan,2019,,62.48616
+Africa (WHO),2010,,31.55601
+Africa (WHO),2011,,31.88515
+Africa (WHO),2012,,32.33243
+Africa (WHO),2013,,31.48955
+Africa (WHO),2014,,31.84252
+Africa (WHO),2015,,33.39974
+Africa (WHO),2016,,33.40155
+Africa (WHO),2017,,33.21602
+Africa (WHO),2018,,32.94913
+Africa (WHO),2019,,32.52097
+Albania,1990,1200.0,
+Albania,1995,1100.0,
+Albania,2000,1000.0,
+Albania,2005,1000.0,
+Albania,2010,1200.0,21.9487
+Albania,2011,,22.9965
+Albania,2012,,21.70175
+Albania,2013,,19.77038
+Albania,2014,,19.13142
+Albania,2015,1500.0,18.98271
+Albania,2016,,18.14981
+Albania,2017,,19.00622
+Albania,2018,,19.75808
+Albania,2019,,16.27997
+Algeria,1990,6800.0,
+Algeria,1995,7000.0,
+Algeria,2000,7600.0,
+Algeria,2005,8000.0,
+Algeria,2010,8800.0,21.27312
+Algeria,2011,,21.55503
+Algeria,2012,,22.75584
+Algeria,2013,,21.19187
+Algeria,2014,,22.63854
+Algeria,2015,12000.0,22.49486
+Algeria,2016,,23.05572
+Algeria,2017,,23.32959
+Algeria,2018,,22.72761
+Algeria,2019,,22.68313
+Americas (WHO),2010,,14.74427
+Americas (WHO),2011,,15.02574
+Americas (WHO),2012,,14.56347
+Americas (WHO),2013,,14.60512
+Americas (WHO),2014,,14.28605
+Americas (WHO),2015,,13.97896
+Americas (WHO),2016,,13.51915
+Americas (WHO),2017,,13.9361
+Americas (WHO),2018,,12.78496
+Americas (WHO),2019,,12.13756
+Andorra,2010,,11.42903
+Andorra,2011,,11.66004
+Andorra,2012,,10.79727
+Andorra,2013,,10.14877
+Andorra,2014,,9.34741
+Andorra,2015,,9.94171
+Andorra,2016,,9.06227
+Andorra,2017,,9.30733
+Andorra,2018,,9.21394
+Andorra,2019,,8.52423
+Angola,1990,8600.0,
+Angola,1995,8900.0,
+Angola,2000,9700.0,
+Angola,2005,9000.0,
+Angola,2010,9200.0,24.1984
+Angola,2011,,24.67357
+Angola,2012,,24.0083
+Angola,2013,,24.53186
+Angola,2014,,24.11941
+Angola,2015,10200.0,25.03078
+Angola,2016,,26.0812
+Angola,2017,,25.44195
+Angola,2018,,25.85236
+Angola,2019,,27.16477
+Antigua and Barbuda,2010,,8.16597
+Antigua and Barbuda,2011,,7.79362
+Antigua and Barbuda,2012,,8.19812
+Antigua and Barbuda,2013,,8.05258
+Antigua and Barbuda,2014,,8.49694
+Antigua and Barbuda,2015,,8.89159
+Antigua and Barbuda,2016,,8.9538
+Antigua and Barbuda,2017,,9.26532
+Antigua and Barbuda,2018,,8.86972
+Antigua and Barbuda,2019,,8.29693
+Argentina,1990,13500.0,
+Argentina,1995,13800.0,
+Argentina,2000,15000.0,
+Argentina,2005,15400.0,
+Argentina,2010,16200.0,13.13748
+Argentina,2011,,13.22056
+Argentina,2012,,12.94834
+Argentina,2013,,14.01846
+Argentina,2014,,13.56491
+Argentina,2015,16600.0,14.18288
+Argentina,2016,,13.93109
+Argentina,2017,,13.23692
+Argentina,2018,,12.60073
+Argentina,2019,,12.04087
+Armenia,1990,1900.0,
+Armenia,1995,2000.0,
+Armenia,2000,2000.0,
+Armenia,2005,2200.0,
+Armenia,2010,2300.0,40.89928
+Armenia,2011,,46.45905
+Armenia,2012,,45.89738
+Armenia,2013,,42.84965
+Armenia,2014,,40.55938
+Armenia,2015,2300.0,40.58537
+Armenia,2016,,40.0427
+Armenia,2017,,37.75576
+Armenia,2018,,37.0863
+Armenia,2019,,34.12674
+Australia,1990,4100.0,
+Australia,1995,4000.0,
+Australia,2000,3800.0,
+Australia,2005,3500.0,
+Australia,2010,3000.0,9.03381
+Australia,2011,,8.0759
+Australia,2012,,7.31418
+Australia,2013,,7.25562
+Australia,2014,,6.91137
+Australia,2015,3400.0,6.6018
+Australia,2016,,6.6731
+Australia,2017,,6.88756
+Australia,2018,,7.10973
+Australia,2019,,8.93323
+Australia and New Zealand (UN),2010,,9.08553
+Australia and New Zealand (UN),2011,,8.15176
+Australia and New Zealand (UN),2012,,7.37259
+Australia and New Zealand (UN),2013,,7.29631
+Australia and New Zealand (UN),2014,,6.95679
+Australia and New Zealand (UN),2015,,6.65513
+Australia and New Zealand (UN),2016,,6.70996
+Australia and New Zealand (UN),2017,,6.92783
+Australia and New Zealand (UN),2018,,7.16285
+Australia and New Zealand (UN),2019,,8.88227
+Austria,1990,4900.0,
+Austria,1995,4500.0,
+Austria,2000,4200.0,
+Austria,2005,3700.0,
+Austria,2010,3500.0,15.62129
+Austria,2011,,15.98621
+Austria,2012,,14.24784
+Austria,2013,,13.98012
+Austria,2014,,12.98472
+Austria,2015,4000.0,13.62845
+Austria,2016,,12.27973
+Austria,2017,,12.31771
+Austria,2018,,12.67567
+Austria,2019,,11.50796
+Azerbaijan,1990,5600.0,
+Azerbaijan,1995,5500.0,
+Azerbaijan,2000,5300.0,
+Azerbaijan,2005,5100.0,
+Azerbaijan,2010,5900.0,30.1081
+Azerbaijan,2011,,33.92017
+Azerbaijan,2012,,33.58166
+Azerbaijan,2013,,31.35332
+Azerbaijan,2014,,29.929
+Azerbaijan,2015,6100.0,29.66727
+Azerbaijan,2016,,28.84057
+Azerbaijan,2017,,27.47704
+Azerbaijan,2018,,26.96124
+Azerbaijan,2019,,24.64286
+Bahamas,1990,100.0,
+Bahamas,1995,100.0,
+Bahamas,2000,100.0,
+Bahamas,2005,100.0,
+Bahamas,2010,100.0,4.96926
+Bahamas,2011,,4.91879
+Bahamas,2012,,5.28044
+Bahamas,2013,,5.07954
+Bahamas,2014,,5.31808
+Bahamas,2015,100.0,5.32066
+Bahamas,2016,,5.55845
+Bahamas,2017,,5.80244
+Bahamas,2018,,5.61226
+Bahamas,2019,,5.19903
+Bahrain,1990,200.0,
+Bahrain,1995,200.0,
+Bahrain,2000,200.0,
+Bahrain,2005,200.0,
+Bahrain,2010,200.0,55.87221
+Bahrain,2011,,54.68996
+Bahrain,2012,,54.40328
+Bahrain,2013,,52.80459
+Bahrain,2014,,50.11634
+Bahrain,2015,200.0,56.37947
+Bahrain,2016,,52.90089
+Bahrain,2017,,54.71749
+Bahrain,2018,,54.49085
+Bahrain,2019,,51.81722
+Bangladesh,1990,81200.0,
+Bangladesh,1995,80300.0,
+Bangladesh,2000,85700.0,
+Bangladesh,2005,101000.0,
+Bangladesh,2010,110300.0,49.42935
+Bangladesh,2011,,49.96579
+Bangladesh,2012,,50.8172
+Bangladesh,2013,,52.86825
+Bangladesh,2014,,50.96257
+Bangladesh,2015,122400.0,50.62575
+Bangladesh,2016,,47.77741
+Bangladesh,2017,,46.18553
+Bangladesh,2018,,50.66434
+Bangladesh,2019,,45.98906
+Barbados,1990,100.0,
+Barbados,1995,100.0,
+Barbados,2000,100.0,
+Barbados,2005,100.0,
+Barbados,2010,100.0,9.1456
+Barbados,2011,,9.04454
+Barbados,2012,,9.60352
+Barbados,2013,,9.31516
+Barbados,2014,,9.94912
+Barbados,2015,100.0,10.52567
+Barbados,2016,,10.34492
+Barbados,2017,,10.90575
+Barbados,2018,,10.35542
+Barbados,2019,,9.78987
+Belarus,1990,11700.0,
+Belarus,1995,12400.0,
+Belarus,2000,12200.0,
+Belarus,2005,11800.0,
+Belarus,2010,11500.0,19.90926
+Belarus,2011,,18.10344
+Belarus,2012,,17.35394
+Belarus,2013,,17.94123
+Belarus,2014,,18.76572
+Belarus,2015,12200.0,16.49174
+Belarus,2016,,14.7773
+Belarus,2017,,14.36545
+Belarus,2018,,16.08948
+Belarus,2019,,15.48201
+Belgium,1990,6800.0,
+Belgium,1995,6300.0,
+Belgium,2000,6000.0,
+Belgium,2005,5500.0,
+Belgium,2010,5300.0,16.07608
+Belgium,2011,,16.2887
+Belgium,2012,,14.64482
+Belgium,2013,,14.41417
+Belgium,2014,,13.12651
+Belgium,2015,5600.0,13.27885
+Belgium,2016,,12.36674
+Belgium,2017,,12.32764
+Belgium,2018,,12.16104
+Belgium,2019,,11.25612
+Belize,1990,100.0,
+Belize,1995,100.0,
+Belize,2000,100.0,
+Belize,2005,100.0,
+Belize,2010,100.0,9.91087
+Belize,2011,,9.80176
+Belize,2012,,10.17558
+Belize,2013,,10.24834
+Belize,2014,,10.79746
+Belize,2015,100.0,11.0954
+Belize,2016,,11.10206
+Belize,2017,,11.36383
+Belize,2018,,10.90041
+Belize,2019,,10.50946
+Benin,1990,4100.0,
+Benin,1995,4500.0,
+Benin,2000,4700.0,
+Benin,2005,4100.0,
+Benin,2010,4300.0,30.97376
+Benin,2011,,31.36923
+Benin,2012,,31.84715
+Benin,2013,,30.8411
+Benin,2014,,31.14171
+Benin,2015,4300.0,33.10973
+Benin,2016,,32.72527
+Benin,2017,,32.66209
+Benin,2018,,32.33744
+Benin,2019,,31.51453
+Bhutan,1990,300.0,
+Bhutan,1995,200.0,
+Bhutan,2000,200.0,
+Bhutan,2005,300.0,
+Bhutan,2010,300.0,29.51405
+Bhutan,2011,,29.08522
+Bhutan,2012,,30.02531
+Bhutan,2013,,30.6965
+Bhutan,2014,,29.72429
+Bhutan,2015,400.0,29.04297
+Bhutan,2016,,27.62854
+Bhutan,2017,,26.49072
+Bhutan,2018,,28.72968
+Bhutan,2019,,26.09506
+Bolivia,1990,3400.0,
+Bolivia,1995,3400.0,
+Bolivia,2000,3400.0,
+Bolivia,2005,3900.0,
+Bolivia,2010,3600.0,28.03159
+Bolivia,2011,,25.82634
+Bolivia,2012,,26.2593
+Bolivia,2013,,26.52307
+Bolivia,2014,,27.47979
+Bolivia,2015,4100.0,26.50242
+Bolivia,2016,,26.40407
+Bolivia,2017,,24.17303
+Bolivia,2018,,24.63357
+Bolivia,2019,,25.23416
+Bosnia and Herzegovina,1990,2900.0,
+Bosnia and Herzegovina,1995,2800.0,
+Bosnia and Herzegovina,2000,2500.0,
+Bosnia and Herzegovina,2005,2400.0,
+Bosnia and Herzegovina,2010,2500.0,34.91059
+Bosnia and Herzegovina,2011,,36.5729
+Bosnia and Herzegovina,2012,,34.05842
+Bosnia and Herzegovina,2013,,31.48972
+Bosnia and Herzegovina,2014,,32.07207
+Bosnia and Herzegovina,2015,2800.0,30.73886
+Bosnia and Herzegovina,2016,,29.70925
+Bosnia and Herzegovina,2017,,31.40318
+Bosnia and Herzegovina,2018,,32.0164
+Bosnia and Herzegovina,2019,,26.19402
+Botswana,1990,400.0,
+Botswana,1995,500.0,
+Botswana,2000,600.0,
+Botswana,2005,700.0,
+Botswana,2010,600.0,14.13807
+Botswana,2011,,13.68966
+Botswana,2012,,12.99973
+Botswana,2013,,12.80619
+Botswana,2014,,12.77959
+Botswana,2015,700.0,12.88574
+Botswana,2016,,12.68932
+Botswana,2017,,13.11235
+Botswana,2018,,12.94709
+Botswana,2019,,12.8184
+Brazil,1990,42200.0,
+Brazil,1995,45900.0,
+Brazil,2000,49300.0,
+Brazil,2005,46900.0,
+Brazil,2010,43100.0,14.59709
+Brazil,2011,,14.88721
+Brazil,2012,,14.13799
+Brazil,2013,,13.15358
+Brazil,2014,,13.29311
+Brazil,2015,52300.0,12.04713
+Brazil,2016,,11.99646
+Brazil,2017,,14.86497
+Brazil,2018,,11.15102
+Brazil,2019,,10.94008
+Brunei,2010,,8.33369
+Brunei,2011,,8.41756
+Brunei,2012,,7.61957
+Brunei,2013,,8.07865
+Brunei,2014,,8.01761
+Brunei,2015,,7.81317
+Brunei,2016,,7.91286
+Brunei,2017,,7.02539
+Brunei,2018,,6.69525
+Brunei,2019,,6.86475
+Bulgaria,1990,12800.0,
+Bulgaria,1995,12200.0,
+Bulgaria,2000,10800.0,
+Bulgaria,2005,9400.0,
+Bulgaria,2010,9300.0,23.87244
+Bulgaria,2011,,24.29317
+Bulgaria,2012,,22.21629
+Bulgaria,2013,,21.16338
+Bulgaria,2014,,21.16684
+Bulgaria,2015,9500.0,20.41206
+Bulgaria,2016,,19.62786
+Bulgaria,2017,,20.30481
+Bulgaria,2018,,20.39639
+Bulgaria,2019,,17.29031
+Burkina Faso,1990,7700.0,
+Burkina Faso,1995,7900.0,
+Burkina Faso,2000,8200.0,
+Burkina Faso,2005,7400.0,
+Burkina Faso,2010,7300.0,41.29936
+Burkina Faso,2011,,40.39413
+Burkina Faso,2012,,41.16909
+Burkina Faso,2013,,38.51253
+Burkina Faso,2014,,40.01653
+Burkina Faso,2015,6700.0,43.63248
+Burkina Faso,2016,,43.05181
+Burkina Faso,2017,,42.74336
+Burkina Faso,2018,,41.76688
+Burkina Faso,2019,,40.74491
+Burundi,1990,5000.0,
+Burundi,1995,5200.0,
+Burundi,2000,4700.0,
+Burundi,2005,3900.0,
+Burundi,2010,3700.0,27.83957
+Burundi,2011,,27.69889
+Burundi,2012,,28.28679
+Burundi,2013,,28.2065
+Burundi,2014,,28.28168
+Burundi,2015,4600.0,28.3709
+Burundi,2016,,28.36512
+Burundi,2017,,27.63488
+Burundi,2018,,27.98169
+Burundi,2019,,27.99587
+Cambodia,1990,5500.0,
+Cambodia,1995,6000.0,
+Cambodia,2000,5900.0,
+Cambodia,2005,6000.0,
+Cambodia,2010,5600.0,18.84915
+Cambodia,2011,,17.31448
+Cambodia,2012,,18.21766
+Cambodia,2013,,19.1953
+Cambodia,2014,,17.01531
+Cambodia,2015,6100.0,17.4328
+Cambodia,2016,,19.15603
+Cambodia,2017,,16.83556
+Cambodia,2018,,17.16058
+Cambodia,2019,,17.80251
+Cameroon,1990,10000.0,
+Cameroon,1995,11600.0,
+Cameroon,2000,13500.0,
+Cameroon,2005,12800.0,
+Cameroon,2010,12800.0,53.5823
+Cameroon,2011,,54.40143
+Cameroon,2012,,55.42413
+Cameroon,2013,,53.04467
+Cameroon,2014,,53.82225
+Cameroon,2015,12900.0,59.08734
+Cameroon,2016,,59.19735
+Cameroon,2017,,59.29862
+Cameroon,2018,,57.80493
+Cameroon,2019,,56.36692
+Canada,1990,7100.0,
+Canada,1995,7200.0,
+Canada,2000,7100.0,
+Canada,2005,7200.0,
+Canada,2010,6400.0,7.76265
+Canada,2011,,7.8737
+Canada,2012,,7.70689
+Canada,2013,,7.40761
+Canada,2014,,7.29134
+Canada,2015,7100.0,7.15364
+Canada,2016,,6.30748
+Canada,2017,,6.89968
+Canada,2018,,7.09267
+Canada,2019,,6.38944
+Cape Verde,1990,200.0,
+Cape Verde,1995,200.0,
+Cape Verde,2000,200.0,
+Cape Verde,2005,200.0,
+Cape Verde,2010,200.0,28.17148
+Cape Verde,2011,,31.06129
+Cape Verde,2012,,31.92126
+Cape Verde,2013,,30.71544
+Cape Verde,2014,,30.11248
+Cape Verde,2015,200.0,33.37649
+Cape Verde,2016,,31.82663
+Cape Verde,2017,,32.59455
+Cape Verde,2018,,31.19557
+Cape Verde,2019,,31.08072
+Central African Republic,1990,3000.0,
+Central African Republic,1995,3300.0,
+Central African Republic,2000,3600.0,
+Central African Republic,2005,3700.0,
+Central African Republic,2010,3800.0,27.86686
+Central African Republic,2011,,28.59072
+Central African Republic,2012,,27.84438
+Central African Republic,2013,,26.61987
+Central African Republic,2014,,27.61422
+Central African Republic,2015,4100.0,29.06455
+Central African Republic,2016,,29.15016
+Central African Republic,2017,,27.93652
+Central African Republic,2018,,28.25056
+Central African Republic,2019,,27.19802
+Central Asia and Southern Asia (UN),2010,,52.9542
+Central Asia and Southern Asia (UN),2011,,52.96619
+Central Asia and Southern Asia (UN),2012,,53.65272
+Central Asia and Southern Asia (UN),2013,,55.82597
+Central Asia and Southern Asia (UN),2014,,53.5476
+Central Asia and Southern Asia (UN),2015,,53.21841
+Central Asia and Southern Asia (UN),2016,,50.96171
+Central Asia and Southern Asia (UN),2017,,49.34969
+Central Asia and Southern Asia (UN),2018,,53.34119
+Central Asia and Southern Asia (UN),2019,,48.30671
+Chad,1990,4900.0,
+Chad,1995,5600.0,
+Chad,2000,7000.0,
+Chad,2005,7200.0,
+Chad,2010,8100.0,41.64312
+Chad,2011,,42.20619
+Chad,2012,,43.04271
+Chad,2013,,40.62418
+Chad,2014,,41.04188
+Chad,2015,7800.0,44.4972
+Chad,2016,,44.48747
+Chad,2017,,44.35547
+Chad,2018,,42.60818
+Chad,2019,,41.15263
+Chile,1990,4800.0,
+Chile,1995,4500.0,
+Chile,2000,4200.0,
+Chile,2005,4600.0,
+Chile,2010,5200.0,22.25415
+Chile,2011,,22.50082
+Chile,2012,,22.0063
+Chile,2013,,23.82929
+Chile,2014,,23.14193
+Chile,2015,5900.0,24.15233
+Chile,2016,,23.74832
+Chile,2017,,22.69373
+Chile,2018,,21.46726
+Chile,2019,,20.48648
+China,1990,945300.0,
+China,1995,981600.0,
+China,2000,1039300.0,
+China,2005,1140100.0,
+China,2010,1098800.0,47.18253
+China,2011,,51.9203
+China,2012,,53.43098
+China,2013,,64.92525
+China,2014,,55.40258
+China,2015,1108100.0,51.76256
+China,2016,,47.61291
+China,2017,,46.89996
+China,2018,,40.54193
+China,2019,,38.153
+Colombia,1990,7800.0,
+Colombia,1995,8500.0,
+Colombia,2000,9000.0,
+Colombia,2005,10100.0,
+Colombia,2010,9800.0,17.41506
+Colombia,2011,,17.84735
+Colombia,2012,,17.18047
+Colombia,2013,,18.07776
+Colombia,2014,,17.21034
+Colombia,2015,10900.0,17.3316
+Colombia,2016,,16.90482
+Colombia,2017,,15.90059
+Colombia,2018,,14.72127
+Colombia,2019,,14.03552
+Comoros,1990,200.0,
+Comoros,1995,200.0,
+Comoros,2000,200.0,
+Comoros,2005,100.0,
+Comoros,2010,100.0,13.735
+Comoros,2011,,13.8865
+Comoros,2012,,14.16312
+Comoros,2013,,14.0733
+Comoros,2014,,14.24112
+Comoros,2015,100.0,14.53778
+Comoros,2016,,14.15413
+Comoros,2017,,14.29056
+Comoros,2018,,14.41939
+Comoros,2019,,14.3724
+Congo,1990,1800.0,
+Congo,1995,2100.0,
+Congo,2000,2400.0,
+Congo,2005,2100.0,
+Congo,2010,2100.0,30.35857
+Congo,2011,,30.49804
+Congo,2012,,29.84971
+Congo,2013,,29.90465
+Congo,2014,,28.64988
+Congo,2015,2400.0,28.98937
+Congo,2016,,30.03266
+Congo,2017,,28.76763
+Congo,2018,,29.26944
+Congo,2019,,29.48397
+Cook Islands,2010,,7.45866
+Cook Islands,2011,,7.29535
+Cook Islands,2012,,7.43088
+Cook Islands,2013,,7.43945
+Cook Islands,2014,,7.36474
+Cook Islands,2015,,7.45319
+Cook Islands,2016,,7.62076
+Cook Islands,2017,,7.59942
+Cook Islands,2018,,7.76376
+Cook Islands,2019,,7.80121
+Costa Rica,1990,600.0,
+Costa Rica,1995,700.0,
+Costa Rica,2000,800.0,
+Costa Rica,2005,800.0,
+Costa Rica,2010,700.0,18.34723
+Costa Rica,2011,,19.17703
+Costa Rica,2012,,18.51075
+Costa Rica,2013,,19.14176
+Costa Rica,2014,,18.0355
+Costa Rica,2015,1000.0,18.31777
+Costa Rica,2016,,17.8607
+Costa Rica,2017,,17.0471
+Costa Rica,2018,,15.59229
+Costa Rica,2019,,14.69544
+Cote d'Ivoire,1990,6100.0,
+Cote d'Ivoire,1995,8000.0,
+Cote d'Ivoire,2000,8700.0,
+Cote d'Ivoire,2005,7700.0,
+Cote d'Ivoire,2010,7800.0,39.44081
+Cote d'Ivoire,2011,,40.74937
+Cote d'Ivoire,2012,,41.18663
+Cote d'Ivoire,2013,,39.4543
+Cote d'Ivoire,2014,,39.55348
+Cote d'Ivoire,2015,7700.0,43.7615
+Cote d'Ivoire,2016,,42.70035
+Cote d'Ivoire,2017,,42.12337
+Cote d'Ivoire,2018,,41.80919
+Cote d'Ivoire,2019,,40.41493
+Croatia,1990,3800.0,
+Croatia,1995,3600.0,
+Croatia,2000,3500.0,
+Croatia,2005,3200.0,
+Croatia,2010,3200.0,20.99358
+Croatia,2011,,22.06682
+Croatia,2012,,19.8851
+Croatia,2013,,18.93214
+Croatia,2014,,19.0963
+Croatia,2015,3500.0,18.64689
+Croatia,2016,,17.72706
+Croatia,2017,,18.22426
+Croatia,2018,,18.97625
+Croatia,2019,,15.28803
+Cuba,1990,5400.0,
+Cuba,1995,5800.0,
+Cuba,2000,6100.0,
+Cuba,2005,6000.0,
+Cuba,2010,5400.0,13.32336
+Cuba,2011,,12.77719
+Cuba,2012,,13.71305
+Cuba,2013,,13.2396
+Cuba,2014,,13.71356
+Cuba,2015,6600.0,14.16391
+Cuba,2016,,14.4658
+Cuba,2017,,14.76059
+Cuba,2018,,14.28114
+Cuba,2019,,13.31979
+Cyprus,1990,300.0,
+Cyprus,1995,300.0,
+Cyprus,2000,300.0,
+Cyprus,2005,300.0,
+Cyprus,2010,300.0,18.5258
+Cyprus,2011,,17.56798
+Cyprus,2012,,16.22805
+Cyprus,2013,,16.11813
+Cyprus,2014,,14.88171
+Cyprus,2015,300.0,15.12686
+Cyprus,2016,,13.67356
+Cyprus,2017,,14.60062
+Cyprus,2018,,15.38302
+Cyprus,2019,,14.51621
+Czechia,1990,12800.0,
+Czechia,1995,10000.0,
+Czechia,2000,8200.0,
+Czechia,2005,7400.0,
+Czechia,2010,7500.0,20.24895
+Czechia,2011,,20.80231
+Czechia,2012,,18.80054
+Czechia,2013,,18.07482
+Czechia,2014,,18.27818
+Czechia,2015,7800.0,17.5159
+Czechia,2016,,16.62194
+Czechia,2017,,16.99135
+Czechia,2018,,17.50349
+Czechia,2019,,14.34125
+Democratic Republic of Congo,2010,,31.83993
+Democratic Republic of Congo,2011,,31.62003
+Democratic Republic of Congo,2012,,32.14339
+Democratic Republic of Congo,2013,,32.08453
+Democratic Republic of Congo,2014,,31.46924
+Democratic Republic of Congo,2015,,32.20523
+Democratic Republic of Congo,2016,,32.98959
+Democratic Republic of Congo,2017,,31.32414
+Democratic Republic of Congo,2018,,31.46394
+Democratic Republic of Congo,2019,,31.57858
+Denmark,1990,3400.0,
+Denmark,1995,3100.0,
+Denmark,2000,2600.0,
+Denmark,2005,2200.0,
+Denmark,2010,2100.0,12.26529
+Denmark,2011,,12.98285
+Denmark,2012,,11.44257
+Denmark,2013,,10.96574
+Denmark,2014,,10.39104
+Denmark,2015,2100.0,10.72585
+Denmark,2016,,9.77846
+Denmark,2017,,9.96918
+Denmark,2018,,10.01519
+Denmark,2019,,9.65653
+Djibouti,1990,300.0,
+Djibouti,1995,300.0,
+Djibouti,2000,400.0,
+Djibouti,2005,400.0,
+Djibouti,2010,400.0,20.58046
+Djibouti,2011,,20.825
+Djibouti,2012,,21.15661
+Djibouti,2013,,20.71166
+Djibouti,2014,,20.00309
+Djibouti,2015,400.0,20.38808
+Djibouti,2016,,20.4687
+Djibouti,2017,,20.89987
+Djibouti,2018,,20.38832
+Djibouti,2019,,19.98484
+Dominica,2010,,7.86285
+Dominica,2011,,7.69866
+Dominica,2012,,8.1195
+Dominica,2013,,7.8932
+Dominica,2014,,8.35549
+Dominica,2015,,8.8134
+Dominica,2016,,8.8778
+Dominica,2017,,9.23309
+Dominica,2018,,8.74675
+Dominica,2019,,8.22238
+Dominican Republic,1990,1400.0,
+Dominican Republic,1995,1700.0,
+Dominican Republic,2000,2300.0,
+Dominican Republic,2005,2400.0,
+Dominican Republic,2010,2900.0,7.52421
+Dominican Republic,2011,,7.04065
+Dominican Republic,2012,,7.461
+Dominican Republic,2013,,7.21616
+Dominican Republic,2014,,7.69651
+Dominican Republic,2015,3300.0,7.87327
+Dominican Republic,2016,,8.01817
+Dominican Republic,2017,,8.32237
+Dominican Republic,2018,,8.00486
+Dominican Republic,2019,,7.58534
+East Timor,2010,,20.7535
+East Timor,2011,,19.57411
+East Timor,2012,,20.7288
+East Timor,2013,,21.11583
+East Timor,2014,,19.27231
+East Timor,2015,,19.42989
+East Timor,2016,,21.20142
+East Timor,2017,,19.49366
+East Timor,2018,,19.65762
+East Timor,2019,,20.47387
+Eastern Asia and South-eastern Asia (UN),2010,,38.21828
+Eastern Asia and South-eastern Asia (UN),2011,,40.73898
+Eastern Asia and South-eastern Asia (UN),2012,,41.85703
+Eastern Asia and South-eastern Asia (UN),2013,,49.52913
+Eastern Asia and South-eastern Asia (UN),2014,,42.73972
+Eastern Asia and South-eastern Asia (UN),2015,,40.4442
+Eastern Asia and South-eastern Asia (UN),2016,,38.23954
+Eastern Asia and South-eastern Asia (UN),2017,,36.9875
+Eastern Asia and South-eastern Asia (UN),2018,,32.82319
+Eastern Asia and South-eastern Asia (UN),2019,,31.55598
+Eastern Mediterranean (WHO),2010,,44.49082
+Eastern Mediterranean (WHO),2011,,43.91316
+Eastern Mediterranean (WHO),2012,,44.66675
+Eastern Mediterranean (WHO),2013,,45.70842
+Eastern Mediterranean (WHO),2014,,44.20543
+Eastern Mediterranean (WHO),2015,,44.86908
+Eastern Mediterranean (WHO),2016,,43.85695
+Eastern Mediterranean (WHO),2017,,43.64261
+Eastern Mediterranean (WHO),2018,,45.70891
+Eastern Mediterranean (WHO),2019,,43.32542
+Ecuador,1990,2300.0,
+Ecuador,1995,2500.0,
+Ecuador,2000,2900.0,
+Ecuador,2005,3400.0,
+Ecuador,2010,2900.0,17.47493
+Ecuador,2011,,17.10048
+Ecuador,2012,,17.73954
+Ecuador,2013,,18.12336
+Ecuador,2014,,18.55831
+Ecuador,2015,3000.0,17.72879
+Ecuador,2016,,17.16539
+Ecuador,2017,,15.83787
+Ecuador,2018,,16.3823
+Ecuador,2019,,16.54855
+Egypt,1990,52300.0,
+Egypt,1995,47600.0,
+Egypt,2000,43100.0,
+Egypt,2005,48300.0,
+Egypt,2010,57400.0,60.83491
+Egypt,2011,,59.31687
+Egypt,2012,,60.50464
+Egypt,2013,,61.92892
+Egypt,2014,,62.02213
+Egypt,2015,60200.0,61.56171
+Egypt,2016,,61.96814
+Egypt,2017,,62.04866
+Egypt,2018,,62.19745
+Egypt,2019,,63.15743
+El Salvador,1990,1700.0,
+El Salvador,1995,1900.0,
+El Salvador,2000,1900.0,
+El Salvador,2005,1900.0,
+El Salvador,2010,1800.0,26.92661
+El Salvador,2011,,28.312
+El Salvador,2012,,26.85603
+El Salvador,2013,,28.60984
+El Salvador,2014,,27.04093
+El Salvador,2015,2200.0,27.18434
+El Salvador,2016,,26.44211
+El Salvador,2017,,24.93845
+El Salvador,2018,,23.35659
+El Salvador,2019,,22.15224
+Equatorial Guinea,1990,400.0,
+Equatorial Guinea,1995,400.0,
+Equatorial Guinea,2000,400.0,
+Equatorial Guinea,2005,300.0,
+Equatorial Guinea,2010,300.0,24.24799
+Equatorial Guinea,2011,,24.93395
+Equatorial Guinea,2012,,25.52585
+Equatorial Guinea,2013,,24.30935
+Equatorial Guinea,2014,,24.11408
+Equatorial Guinea,2015,400.0,27.28679
+Equatorial Guinea,2016,,26.95478
+Equatorial Guinea,2017,,26.62422
+Equatorial Guinea,2018,,26.37597
+Equatorial Guinea,2019,,25.66867
+Eritrea,1990,1900.0,
+Eritrea,1995,1400.0,
+Eritrea,2000,1400.0,
+Eritrea,2005,1600.0,
+Eritrea,2010,1900.0,22.41942
+Eritrea,2011,,22.7158
+Eritrea,2012,,22.69251
+Eritrea,2013,,22.20768
+Eritrea,2014,,21.30527
+Eritrea,2015,2100.0,22.33113
+Eritrea,2016,,22.30357
+Eritrea,2017,,23.55812
+Eritrea,2018,,22.98061
+Eritrea,2019,,22.74486
+Estonia,1990,1200.0,
+Estonia,1995,1100.0,
+Estonia,2000,900.0,
+Estonia,2005,700.0,
+Estonia,2010,600.0,8.46857
+Estonia,2011,,7.65399
+Estonia,2012,,7.37921
+Estonia,2013,,7.63221
+Estonia,2014,,7.84577
+Estonia,2015,700.0,6.74558
+Estonia,2016,,6.19576
+Estonia,2017,,5.89878
+Estonia,2018,,6.70458
+Estonia,2019,,6.35007
+Eswatini,1990,300.0,
+Eswatini,1995,300.0,
+Eswatini,2000,500.0,
+Eswatini,2005,600.0,
+Eswatini,2010,500.0,14.96722
+Eswatini,2011,,14.71019
+Eswatini,2012,,14.74831
+Eswatini,2013,,14.89782
+Eswatini,2014,,15.05071
+Eswatini,2015,500.0,14.82998
+Eswatini,2016,,14.5759
+Eswatini,2017,,14.77646
+Eswatini,2018,,14.94766
+Eswatini,2019,,15.07308
+Ethiopia,1990,36900.0,
+Ethiopia,1995,38000.0,
+Ethiopia,2000,37600.0,
+Ethiopia,2005,33100.0,
+Ethiopia,2010,30900.0,22.26304
+Ethiopia,2011,,22.38095
+Ethiopia,2012,,22.08561
+Ethiopia,2013,,22.07112
+Ethiopia,2014,,21.94154
+Ethiopia,2015,31100.0,22.11803
+Ethiopia,2016,,22.17223
+Ethiopia,2017,,22.2304
+Ethiopia,2018,,22.23241
+Ethiopia,2019,,21.80471
+Europe (WHO),2010,,18.7488
+Europe (WHO),2011,,19.17515
+Europe (WHO),2012,,18.0306
+Europe (WHO),2013,,17.56861
+Europe (WHO),2014,,17.0275
+Europe (WHO),2015,,16.79347
+Europe (WHO),2016,,15.93261
+Europe (WHO),2017,,15.80217
+Europe (WHO),2018,,16.09504
+Europe (WHO),2019,,14.88446
+Fiji,1990,100.0,
+Fiji,1995,200.0,
+Fiji,2000,200.0,
+Fiji,2005,200.0,
+Fiji,2010,200.0,7.19301
+Fiji,2011,,7.03749
+Fiji,2012,,7.10199
+Fiji,2013,,7.12294
+Fiji,2014,,7.22564
+Fiji,2015,200.0,7.32313
+Fiji,2016,,7.38893
+Fiji,2017,,7.45195
+Fiji,2018,,7.51985
+Fiji,2019,,7.36073
+Finland,1990,2100.0,
+Finland,1995,1900.0,
+Finland,2000,1600.0,
+Finland,2005,1400.0,
+Finland,2010,1400.0,7.06676
+Finland,2011,,7.03235
+Finland,2012,,6.32824
+Finland,2013,,6.19898
+Finland,2014,,5.77196
+Finland,2015,1600.0,5.82623
+Finland,2016,,5.39254
+Finland,2017,,5.37331
+Finland,2018,,5.57078
+Finland,2019,,5.46669
+France,1990,21000.0,
+France,1995,20300.0,
+France,2000,19400.0,
+France,2005,17900.0,
+France,2010,17800.0,14.4533
+France,2011,,14.72045
+France,2012,,13.28604
+France,2013,,12.94845
+France,2014,,11.87684
+France,2015,20300.0,12.20689
+France,2016,,11.24407
+France,2017,,11.2922
+France,2018,,11.22835
+France,2019,,10.45709
+Gabon,1990,700.0,
+Gabon,1995,800.0,
+Gabon,2000,800.0,
+Gabon,2005,800.0,
+Gabon,2010,700.0,25.25444
+Gabon,2011,,25.36521
+Gabon,2012,,25.71197
+Gabon,2013,,25.17365
+Gabon,2014,,24.74257
+Gabon,2015,800.0,26.12616
+Gabon,2016,,26.67274
+Gabon,2017,,25.89724
+Gabon,2018,,26.25771
+Gabon,2019,,26.28642
+Gambia,1990,500.0,
+Gambia,1995,600.0,
+Gambia,2000,600.0,
+Gambia,2005,500.0,
+Gambia,2010,600.0,37.46242
+Gambia,2011,,37.6336
+Gambia,2012,,38.99416
+Gambia,2013,,36.75793
+Gambia,2014,,37.9618
+Gambia,2015,600.0,39.87149
+Gambia,2016,,38.93244
+Gambia,2017,,40.49778
+Gambia,2018,,39.85939
+Gambia,2019,,39.10354
+Georgia,1990,4700.0,
+Georgia,1995,4000.0,
+Georgia,2000,4000.0,
+Georgia,2005,4100.0,
+Georgia,2010,4200.0,22.83911
+Georgia,2011,,25.97638
+Georgia,2012,,25.60431
+Georgia,2013,,23.91735
+Georgia,2014,,22.75555
+Georgia,2015,3900.0,22.56939
+Georgia,2016,,22.23778
+Georgia,2017,,21.05663
+Georgia,2018,,20.65794
+Georgia,2019,,19.06419
+Germany,1990,58200.0,
+Germany,1995,50200.0,
+Germany,2000,44200.0,
+Germany,2005,39700.0,
+Germany,2010,39400.0,15.05866
+Germany,2011,,15.41786
+Germany,2012,,13.75633
+Germany,2013,,13.26872
+Germany,2014,,12.47156
+Germany,2015,43100.0,12.64463
+Germany,2016,,11.65641
+Germany,2017,,11.77804
+Germany,2018,,11.69647
+Germany,2019,,10.73096
+Ghana,1990,6900.0,
+Ghana,1995,7100.0,
+Ghana,2000,8000.0,
+Ghana,2005,8100.0,
+Ghana,2010,9100.0,44.15821
+Ghana,2011,,45.88362
+Ghana,2012,,46.1697
+Ghana,2013,,44.52658
+Ghana,2014,,44.32529
+Ghana,2015,8600.0,50.00957
+Ghana,2016,,49.58518
+Ghana,2017,,48.44405
+Ghana,2018,,48.04326
+Ghana,2019,,46.04334
+Greece,1990,5300.0,
+Greece,1995,5300.0,
+Greece,2000,5500.0,
+Greece,2005,5100.0,
+Greece,2010,5600.0,19.70342
+Greece,2011,,19.55482
+Greece,2012,,17.69594
+Greece,2013,,17.32218
+Greece,2014,,15.61442
+Greece,2015,6700.0,16.44555
+Greece,2016,,15.17234
+Greece,2017,,15.19722
+Greece,2018,,15.68502
+Greece,2019,,14.62251
+Grenada,2010,,9.39634
+Grenada,2011,,9.23726
+Grenada,2012,,9.78476
+Grenada,2013,,9.54154
+Grenada,2014,,10.17527
+Grenada,2015,,10.76191
+Grenada,2016,,10.58836
+Grenada,2017,,11.13847
+Grenada,2018,,10.56853
+Grenada,2019,,10.08384
+Guatemala,1990,4000.0,
+Guatemala,1995,4400.0,
+Guatemala,2000,5000.0,
+Guatemala,2005,4800.0,
+Guatemala,2010,4200.0,25.981
+Guatemala,2011,,27.38173
+Guatemala,2012,,25.71066
+Guatemala,2013,,27.22863
+Guatemala,2014,,25.22439
+Guatemala,2015,4900.0,25.41907
+Guatemala,2016,,24.99632
+Guatemala,2017,,23.81887
+Guatemala,2018,,21.71094
+Guatemala,2019,,20.74787
+Guinea,1990,4300.0,
+Guinea,1995,5000.0,
+Guinea,2000,5100.0,
+Guinea,2005,4400.0,
+Guinea,2010,5000.0,36.75639
+Guinea,2011,,36.8619
+Guinea,2012,,38.56442
+Guinea,2013,,35.99449
+Guinea,2014,,37.47029
+Guinea,2015,4600.0,39.19347
+Guinea,2016,,39.27696
+Guinea,2017,,38.63413
+Guinea,2018,,37.9553
+Guinea,2019,,37.57394
+Guinea-Bissau,1990,800.0,
+Guinea-Bissau,1995,800.0,
+Guinea-Bissau,2000,900.0,
+Guinea-Bissau,2005,800.0,
+Guinea-Bissau,2010,1000.0,33.91065
+Guinea-Bissau,2011,,34.199
+Guinea-Bissau,2012,,35.23712
+Guinea-Bissau,2013,,33.12466
+Guinea-Bissau,2014,,34.50521
+Guinea-Bissau,2015,1000.0,36.11347
+Guinea-Bissau,2016,,35.00763
+Guinea-Bissau,2017,,36.52577
+Guinea-Bissau,2018,,35.89896
+Guinea-Bissau,2019,,34.84998
+Guyana,1990,300.0,
+Guyana,1995,300.0,
+Guyana,2000,300.0,
+Guyana,2005,300.0,
+Guyana,2010,200.0,10.48881
+Guyana,2011,,10.08629
+Guyana,2012,,10.7606
+Guyana,2013,,10.41427
+Guyana,2014,,11.08202
+Guyana,2015,300.0,11.72288
+Guyana,2016,,11.76084
+Guyana,2017,,12.03326
+Guyana,2018,,11.51726
+Guyana,2019,,11.10584
+Haiti,1990,4900.0,
+Haiti,1995,4600.0,
+Haiti,2000,4400.0,
+Haiti,2005,4400.0,
+Haiti,2010,4100.0,9.56173
+Haiti,2011,,9.04796
+Haiti,2012,,9.60844
+Haiti,2013,,9.36743
+Haiti,2014,,9.92126
+Haiti,2015,4700.0,10.14026
+Haiti,2016,,10.36243
+Haiti,2017,,10.61368
+Haiti,2018,,10.23239
+Haiti,2019,,9.69133
+Honduras,1990,1400.0,
+Honduras,1995,1900.0,
+Honduras,2000,2200.0,
+Honduras,2005,2600.0,
+Honduras,2010,2600.0,22.41273
+Honduras,2011,,24.6973
+Honduras,2012,,22.49206
+Honduras,2013,,24.52253
+Honduras,2014,,23.10055
+Honduras,2015,3100.0,23.07178
+Honduras,2016,,22.63153
+Honduras,2017,,21.06729
+Honduras,2018,,20.02576
+Honduras,2019,,18.93138
+Hungary,1990,13200.0,
+Hungary,1995,11800.0,
+Hungary,2000,10100.0,
+Hungary,2005,9400.0,
+Hungary,2010,9300.0,19.48187
+Hungary,2011,,20.28949
+Hungary,2012,,18.09601
+Hungary,2013,,17.41172
+Hungary,2014,,17.6783
+Hungary,2015,8600.0,17.16101
+Hungary,2016,,16.18065
+Hungary,2017,,16.61689
+Hungary,2018,,17.25407
+Hungary,2019,,14.24457
+Iceland,1990,100.0,
+Iceland,1995,100.0,
+Iceland,2000,100.0,
+Iceland,2005,100.0,
+Iceland,2010,100.0,6.90546
+Iceland,2011,,7.45684
+Iceland,2012,,6.63645
+Iceland,2013,,6.38553
+Iceland,2014,,6.03472
+Iceland,2015,100.0,6.43001
+Iceland,2016,,5.68914
+Iceland,2017,,5.75077
+Iceland,2018,,5.88924
+Iceland,2019,,5.78865
+India,1990,737400.0,
+India,1995,795200.0,
+India,2000,857300.0,
+India,2005,895900.0,
+India,2010,957000.0,55.16824
+India,2011,,55.05154
+India,2012,,55.71659
+India,2013,,58.2048
+India,2014,,55.88501
+India,2015,1090400.0,55.47851
+India,2016,,52.99866
+India,2017,,51.30151
+India,2018,,55.47787
+India,2019,,50.17359
+Indonesia,1990,53200.0,
+Indonesia,1995,57300.0,
+Indonesia,2000,64400.0,
+Indonesia,2005,71100.0,
+Indonesia,2010,71400.0,20.59222
+Indonesia,2011,,19.12046
+Indonesia,2012,,20.27159
+Indonesia,2013,,20.90741
+Indonesia,2014,,18.87457
+Indonesia,2015,78600.0,19.34402
+Indonesia,2016,,20.77603
+Indonesia,2017,,18.41187
+Indonesia,2018,,18.46806
+Indonesia,2019,,19.3398
+Iran,1990,22500.0,
+Iran,1995,21700.0,
+Iran,2000,23700.0,
+Iran,2005,27400.0,
+Iran,2010,31500.0,29.88702
+Iran,2011,,29.6127
+Iran,2012,,29.63387
+Iran,2013,,29.5478
+Iran,2014,,29.05687
+Iran,2015,33300.0,29.87318
+Iran,2016,,29.5019
+Iran,2017,,30.35325
+Iran,2018,,32.17821
+Iran,2019,,31.61622
+Iraq,1990,9700.0,
+Iraq,1995,11500.0,
+Iraq,2000,13000.0,
+Iraq,2005,14300.0,
+Iraq,2010,17500.0,39.31795
+Iraq,2011,,38.61172
+Iraq,2012,,38.56523
+Iraq,2013,,38.55701
+Iraq,2014,,36.63165
+Iraq,2015,15700.0,39.05414
+Iraq,2016,,38.51472
+Iraq,2017,,38.85521
+Iraq,2018,,39.97648
+Iraq,2019,,39.28878
+Ireland,1990,1500.0,
+Ireland,1995,1400.0,
+Ireland,2000,1300.0,
+Ireland,2005,1100.0,
+Ireland,2010,1000.0,9.902
+Ireland,2011,,10.60182
+Ireland,2012,,9.42652
+Ireland,2013,,9.32749
+Ireland,2014,,8.73801
+Ireland,2015,1100.0,9.16187
+Ireland,2016,,8.07617
+Ireland,2017,,8.13348
+Ireland,2018,,8.30705
+Ireland,2019,,8.19503
+Israel,1990,1700.0,
+Israel,1995,1900.0,
+Israel,2000,1700.0,
+Israel,2005,1700.0,
+Israel,2010,1800.0,24.22698
+Israel,2011,,23.7084
+Israel,2012,,22.15262
+Israel,2013,,22.07348
+Israel,2014,,20.4316
+Israel,2015,2100.0,21.65498
+Israel,2016,,19.90068
+Israel,2017,,19.54361
+Israel,2018,,20.21878
+Israel,2019,,19.47101
+Italy,1990,29500.0,
+Italy,1995,27900.0,
+Italy,2000,26400.0,
+Italy,2005,24600.0,
+Italy,2010,25100.0,20.11166
+Italy,2011,,20.72886
+Italy,2012,,18.51943
+Italy,2013,,17.90644
+Italy,2014,,16.69172
+Italy,2015,33700.0,17.27739
+Italy,2016,,15.82346
+Italy,2017,,15.73249
+Italy,2018,,15.97465
+Italy,2019,,14.22481
+Jamaica,1990,700.0,
+Jamaica,1995,800.0,
+Jamaica,2000,800.0,
+Jamaica,2005,700.0,
+Jamaica,2010,700.0,14.58165
+Jamaica,2011,,13.67548
+Jamaica,2012,,14.70844
+Jamaica,2013,,14.31808
+Jamaica,2014,,15.35632
+Jamaica,2015,900.0,15.74704
+Jamaica,2016,,15.97862
+Jamaica,2017,,16.30178
+Jamaica,2018,,15.7328
+Jamaica,2019,,14.8314
+Japan,1990,38100.0,
+Japan,1995,40700.0,
+Japan,2000,41800.0,
+Japan,2005,48200.0,
+Japan,2010,50800.0,14.2207
+Japan,2011,,13.90566
+Japan,2012,,12.37181
+Japan,2013,,13.4454
+Japan,2014,,13.41395
+Japan,2015,60600.0,12.75262
+Japan,2016,,12.54238
+Japan,2017,,11.89025
+Japan,2018,,10.86894
+Japan,2019,,10.83519
+Jordan,1990,1000.0,
+Jordan,1995,1100.0,
+Jordan,2000,1100.0,
+Jordan,2005,1100.0,
+Jordan,2010,1100.0,24.53118
+Jordan,2011,,24.62581
+Jordan,2012,,24.9422
+Jordan,2013,,24.85342
+Jordan,2014,,24.47033
+Jordan,2015,1400.0,25.3359
+Jordan,2016,,24.86565
+Jordan,2017,,25.28584
+Jordan,2018,,25.85406
+Jordan,2019,,25.87215
+Kazakhstan,1990,9800.0,
+Kazakhstan,1995,11500.0,
+Kazakhstan,2000,10400.0,
+Kazakhstan,2005,10500.0,
+Kazakhstan,2010,9400.0,30.42386
+Kazakhstan,2011,,34.57333
+Kazakhstan,2012,,34.81683
+Kazakhstan,2013,,32.63615
+Kazakhstan,2014,,30.90701
+Kazakhstan,2015,10100.0,30.83178
+Kazakhstan,2016,,30.6633
+Kazakhstan,2017,,29.0364
+Kazakhstan,2018,,28.46401
+Kazakhstan,2019,,26.50215
+Kenya,1990,5200.0,
+Kenya,1995,5500.0,
+Kenya,2000,5700.0,
+Kenya,2005,5700.0,
+Kenya,2010,6200.0,12.37721
+Kenya,2011,,12.42852
+Kenya,2012,,12.46378
+Kenya,2013,,12.44209
+Kenya,2014,,12.46646
+Kenya,2015,7000.0,12.49999
+Kenya,2016,,12.52689
+Kenya,2017,,12.51088
+Kenya,2018,,12.58012
+Kenya,2019,,12.52415
+Kiribati,2010,,7.59778
+Kiribati,2011,,7.61922
+Kiribati,2012,,7.54133
+Kiribati,2013,,7.55415
+Kiribati,2014,,7.33496
+Kiribati,2015,,7.30706
+Kiribati,2016,,7.63719
+Kiribati,2017,,7.63061
+Kiribati,2018,,7.66936
+Kiribati,2019,,7.61811
+Kuwait,1990,400.0,
+Kuwait,1995,400.0,
+Kuwait,2000,400.0,
+Kuwait,2005,500.0,
+Kuwait,2010,700.0,66.5074
+Kuwait,2011,,65.2794
+Kuwait,2012,,65.70146
+Kuwait,2013,,65.5682
+Kuwait,2014,,61.95748
+Kuwait,2015,700.0,66.17386
+Kuwait,2016,,64.36795
+Kuwait,2017,,65.62618
+Kuwait,2018,,66.04878
+Kuwait,2019,,64.07714
+Kyrgyzstan,1990,2700.0,
+Kyrgyzstan,1995,2700.0,
+Kyrgyzstan,2000,2600.0,
+Kyrgyzstan,2005,2700.0,
+Kyrgyzstan,2010,2700.0,44.68326
+Kyrgyzstan,2011,,50.69917
+Kyrgyzstan,2012,,50.3221
+Kyrgyzstan,2013,,47.60541
+Kyrgyzstan,2014,,44.59643
+Kyrgyzstan,2015,2700.0,44.57756
+Kyrgyzstan,2016,,44.04963
+Kyrgyzstan,2017,,41.60872
+Kyrgyzstan,2018,,40.99721
+Kyrgyzstan,2019,,37.58464
+Laos,1990,3700.0,
+Laos,1995,3800.0,
+Laos,2000,3600.0,
+Laos,2005,3400.0,
+Laos,2010,3000.0,22.85893
+Laos,2011,,20.19389
+Laos,2012,,21.7454
+Laos,2013,,22.53763
+Laos,2014,,20.14811
+Laos,2015,3000.0,20.54602
+Laos,2016,,23.09439
+Laos,2017,,19.68483
+Laos,2018,,19.68081
+Laos,2019,,21.15498
+Latin America and the Caribbean (UN),2010,,17.97146
+Latin America and the Caribbean (UN),2011,,18.35907
+Latin America and the Caribbean (UN),2012,,17.7784
+Latin America and the Caribbean (UN),2013,,18.01339
+Latin America and the Caribbean (UN),2014,,17.57599
+Latin America and the Caribbean (UN),2015,,17.25153
+Latin America and the Caribbean (UN),2016,,16.95964
+Latin America and the Caribbean (UN),2017,,17.36015
+Latin America and the Caribbean (UN),2018,,15.45388
+Latin America and the Caribbean (UN),2019,,14.9579
+Latvia,1990,3300.0,
+Latvia,1995,3300.0,
+Latvia,2000,2400.0,
+Latvia,2005,2400.0,
+Latvia,2010,2000.0,16.47888
+Latvia,2011,,15.06489
+Latvia,2012,,14.35427
+Latvia,2013,,15.05586
+Latvia,2014,,15.38506
+Latvia,2015,2100.0,13.39956
+Latvia,2016,,12.14769
+Latvia,2017,,11.45575
+Latvia,2018,,12.84245
+Latvia,2019,,12.02183
+Lebanon,1990,1300.0,
+Lebanon,1995,1200.0,
+Lebanon,2000,1100.0,
+Lebanon,2005,1200.0,
+Lebanon,2010,1600.0,24.23999
+Lebanon,2011,,23.33959
+Lebanon,2012,,23.97292
+Lebanon,2013,,23.89735
+Lebanon,2014,,23.82028
+Lebanon,2015,2100.0,24.49356
+Lebanon,2016,,24.11258
+Lebanon,2017,,23.53088
+Lebanon,2018,,24.0801
+Lebanon,2019,,24.234
+Lesotho,1990,700.0,
+Lesotho,1995,700.0,
+Lesotho,2000,900.0,
+Lesotho,2005,1200.0,
+Lesotho,2010,1100.0,18.42596
+Lesotho,2011,,17.74356
+Lesotho,2012,,17.54277
+Lesotho,2013,,17.75434
+Lesotho,2014,,17.95129
+Lesotho,2015,1100.0,17.6502
+Lesotho,2016,,17.42253
+Lesotho,2017,,17.75258
+Lesotho,2018,,17.79953
+Lesotho,2019,,17.59755
+Liberia,1990,600.0,
+Liberia,1995,500.0,
+Liberia,2000,600.0,
+Liberia,2005,500.0,
+Liberia,2010,600.0,32.84865
+Liberia,2011,,33.43698
+Liberia,2012,,35.50188
+Liberia,2013,,33.1627
+Liberia,2014,,34.65888
+Liberia,2015,500.0,37.68039
+Liberia,2016,,35.72049
+Liberia,2017,,35.98
+Liberia,2018,,35.67585
+Liberia,2019,,35.79581
+Libya,1990,1200.0,
+Libya,1995,1300.0,
+Libya,2000,1500.0,
+Libya,2005,1700.0,
+Libya,2010,2000.0,31.19201
+Libya,2011,,28.60137
+Libya,2012,,28.5302
+Libya,2013,,30.871
+Libya,2014,,29.98407
+Libya,2015,2600.0,29.0747
+Libya,2016,,30.06973
+Libya,2017,,28.41691
+Libya,2018,,30.40843
+Libya,2019,,29.83557
+Lithuania,1990,3800.0,
+Lithuania,1995,3800.0,
+Lithuania,2000,2900.0,
+Lithuania,2005,2900.0,
+Lithuania,2010,2800.0,13.87189
+Lithuania,2011,,12.76746
+Lithuania,2012,,12.194
+Lithuania,2013,,12.64978
+Lithuania,2014,,12.91686
+Lithuania,2015,2700.0,11.43758
+Lithuania,2016,,10.30377
+Lithuania,2017,,9.90997
+Lithuania,2018,,11.11935
+Lithuania,2019,,10.36907
+Luxembourg,1990,200.0,
+Luxembourg,1995,200.0,
+Luxembourg,2000,200.0,
+Luxembourg,2005,200.0,
+Luxembourg,2010,200.0,12.37609
+Luxembourg,2011,,12.6349
+Luxembourg,2012,,11.32265
+Luxembourg,2013,,11.02887
+Luxembourg,2014,,10.26854
+Luxembourg,2015,200.0,10.44694
+Luxembourg,2016,,9.74615
+Luxembourg,2017,,9.83734
+Luxembourg,2018,,9.70775
+Luxembourg,2019,,8.89471
+Madagascar,1990,5000.0,
+Madagascar,1995,5600.0,
+Madagascar,2000,5800.0,
+Madagascar,2005,5800.0,
+Madagascar,2010,6200.0,16.50359
+Madagascar,2011,,16.52913
+Madagascar,2012,,16.17388
+Madagascar,2013,,16.54685
+Madagascar,2014,,16.23716
+Madagascar,2015,7500.0,16.41895
+Madagascar,2016,,16.52351
+Madagascar,2017,,15.8643
+Madagascar,2018,,16.14007
+Madagascar,2019,,16.02251
+Malawi,1990,4200.0,
+Malawi,1995,4600.0,
+Malawi,2000,5400.0,
+Malawi,2005,4800.0,
+Malawi,2010,4500.0,18.7213
+Malawi,2011,,18.84669
+Malawi,2012,,18.96952
+Malawi,2013,,18.72721
+Malawi,2014,,18.71457
+Malawi,2015,4600.0,18.80413
+Malawi,2016,,18.58392
+Malawi,2017,,18.47615
+Malawi,2018,,18.60764
+Malawi,2019,,18.56954
+Malaysia,1990,4800.0,
+Malaysia,1995,5500.0,
+Malaysia,2000,6200.0,
+Malaysia,2005,8000.0,
+Malaysia,2010,8200.0,22.67492
+Malaysia,2011,,21.03622
+Malaysia,2012,,22.27061
+Malaysia,2013,,23.17544
+Malaysia,2014,,20.80653
+Malaysia,2015,9500.0,21.43982
+Malaysia,2016,,22.88744
+Malaysia,2017,,20.3758
+Malaysia,2018,,20.49619
+Malaysia,2019,,21.52164
+Maldives,1990,100.0,
+Maldives,1995,100.0,
+Maldives,2000,100.0,
+Maldives,2005,100.0,
+Maldives,2010,100.0,13.38913
+Maldives,2011,,12.37565
+Maldives,2012,,13.26983
+Maldives,2013,,13.66561
+Maldives,2014,,12.0814
+Maldives,2015,100.0,12.22996
+Maldives,2016,,13.66199
+Maldives,2017,,12.51763
+Maldives,2018,,12.46575
+Maldives,2019,,13.00334
+Mali,1990,5700.0,
+Mali,1995,6000.0,
+Mali,2000,5800.0,
+Mali,2005,5100.0,
+Mali,2010,5600.0,39.03671
+Mali,2011,,38.28989
+Mali,2012,,39.78941
+Mali,2013,,36.20615
+Mali,2014,,38.38143
+Mali,2015,5100.0,40.77241
+Mali,2016,,40.08283
+Mali,2017,,40.3369
+Mali,2018,,39.82185
+Mali,2019,,38.54882
+Malta,1990,100.0,
+Malta,1995,100.0,
+Malta,2000,100.0,
+Malta,2005,100.0,
+Malta,2010,200.0,17.17263
+Malta,2011,,16.46377
+Malta,2012,,14.39201
+Malta,2013,,14.31433
+Malta,2014,,13.8986
+Malta,2015,200.0,13.853
+Malta,2016,,13.26847
+Malta,2017,,12.60381
+Malta,2018,,13.79236
+Malta,2019,,12.93003
+Marshall Islands,2010,,7.2692
+Marshall Islands,2011,,7.07336
+Marshall Islands,2012,,7.1185
+Marshall Islands,2013,,7.2102
+Marshall Islands,2014,,6.97074
+Marshall Islands,2015,,7.10208
+Marshall Islands,2016,,7.2666
+Marshall Islands,2017,,7.14984
+Marshall Islands,2018,,7.14241
+Marshall Islands,2019,,7.21485
+Mauritania,1990,1300.0,
+Mauritania,1995,1500.0,
+Mauritania,2000,1500.0,
+Mauritania,2005,1300.0,
+Mauritania,2010,1400.0,38.90393
+Mauritania,2011,,41.32036
+Mauritania,2012,,42.27807
+Mauritania,2013,,40.30183
+Mauritania,2014,,40.80888
+Mauritania,2015,1600.0,43.67907
+Mauritania,2016,,42.42518
+Mauritania,2017,,43.42366
+Mauritania,2018,,42.58011
+Mauritania,2019,,41.98461
+Mauritius,1990,500.0,
+Mauritius,1995,500.0,
+Mauritius,2000,600.0,
+Mauritius,2005,500.0,
+Mauritius,2010,400.0,10.59822
+Mauritius,2011,,10.54148
+Mauritius,2012,,10.59407
+Mauritius,2013,,10.63984
+Mauritius,2014,,10.65525
+Mauritius,2015,400.0,10.75079
+Mauritius,2016,,10.73204
+Mauritius,2017,,10.35147
+Mauritius,2018,,10.44866
+Mauritius,2019,,10.48182
+Mexico,1990,18100.0,
+Mexico,1995,20100.0,
+Mexico,2000,21300.0,
+Mexico,2005,22600.0,
+Mexico,2010,23600.0,22.13361
+Mexico,2011,,23.52526
+Mexico,2012,,22.2395
+Mexico,2013,,23.18825
+Mexico,2014,,21.56012
+Mexico,2015,29000.0,21.79878
+Mexico,2016,,21.20562
+Mexico,2017,,20.43847
+Mexico,2018,,18.75159
+Mexico,2019,,17.82781
+Micronesia (country),2010,,7.55417
+Micronesia (country),2011,,7.3519
+Micronesia (country),2012,,7.46286
+Micronesia (country),2013,,7.64291
+Micronesia (country),2014,,7.37491
+Micronesia (country),2015,,7.65392
+Micronesia (country),2016,,7.73425
+Micronesia (country),2017,,7.6179
+Micronesia (country),2018,,7.63087
+Micronesia (country),2019,,7.78563
+Moldova,1990,4100.0,
+Moldova,1995,4600.0,
+Moldova,2000,3500.0,
+Moldova,2005,3400.0,
+Moldova,2010,3500.0,16.83486
+Moldova,2011,,15.67313
+Moldova,2012,,14.84957
+Moldova,2013,,15.10139
+Moldova,2014,,15.64055
+Moldova,2015,2900.0,13.60586
+Moldova,2016,,12.51156
+Moldova,2017,,11.98123
+Moldova,2018,,13.29578
+Moldova,2019,,12.36523
+Monaco,2010,,11.90929
+Monaco,2011,,12.36992
+Monaco,2012,,11.15613
+Monaco,2013,,10.76834
+Monaco,2014,,9.97134
+Monaco,2015,,10.41417
+Monaco,2016,,9.52814
+Monaco,2017,,9.62937
+Monaco,2018,,9.87806
+Monaco,2019,,9.21092
+Mongolia,1990,1200.0,
+Mongolia,1995,1100.0,
+Mongolia,2000,1200.0,
+Mongolia,2005,1200.0,
+Mongolia,2010,1300.0,45.20481
+Mongolia,2011,,51.57723
+Mongolia,2012,,52.19057
+Mongolia,2013,,48.76769
+Mongolia,2014,,47.14049
+Mongolia,2015,1500.0,47.78887
+Mongolia,2016,,47.50225
+Mongolia,2017,,45.49607
+Mongolia,2018,,44.03985
+Mongolia,2019,,41.30377
+Montenegro,1990,300.0,
+Montenegro,1995,400.0,
+Montenegro,2000,400.0,
+Montenegro,2005,400.0,
+Montenegro,2010,400.0,26.08957
+Montenegro,2011,,27.20885
+Montenegro,2012,,26.83415
+Montenegro,2013,,23.39572
+Montenegro,2014,,23.25985
+Montenegro,2015,400.0,22.49954
+Montenegro,2016,,21.48403
+Montenegro,2017,,22.66356
+Montenegro,2018,,23.34584
+Montenegro,2019,,19.29617
+Morocco,1990,6600.0,
+Morocco,1995,6800.0,
+Morocco,2000,6900.0,
+Morocco,2005,7500.0,
+Morocco,2010,8100.0,13.1705
+Morocco,2011,,13.27892
+Morocco,2012,,13.23921
+Morocco,2013,,12.87496
+Morocco,2014,,13.25827
+Morocco,2015,9800.0,13.48392
+Morocco,2016,,13.55217
+Morocco,2017,,13.91456
+Morocco,2018,,13.58116
+Morocco,2019,,13.44048
+Mozambique,1990,5200.0,
+Mozambique,1995,5500.0,
+Mozambique,2000,6000.0,
+Mozambique,2005,6000.0,
+Mozambique,2010,6200.0,16.64926
+Mozambique,2011,,16.31307
+Mozambique,2012,,16.46958
+Mozambique,2013,,16.65098
+Mozambique,2014,,16.6766
+Mozambique,2015,6600.0,16.68126
+Mozambique,2016,,16.42798
+Mozambique,2017,,16.25737
+Mozambique,2018,,16.6806
+Mozambique,2019,,16.44818
+Myanmar,1990,31200.0,
+Myanmar,1995,31300.0,
+Myanmar,2000,31800.0,
+Myanmar,2005,31500.0,
+Myanmar,2010,28900.0,29.45053
+Myanmar,2011,,26.63846
+Myanmar,2012,,28.51278
+Myanmar,2013,,29.31366
+Myanmar,2014,,26.07728
+Myanmar,2015,31100.0,26.52866
+Myanmar,2016,,29.2509
+Myanmar,2017,,25.92626
+Myanmar,2018,,26.0426
+Myanmar,2019,,27.16498
+Namibia,1990,600.0,
+Namibia,1995,600.0,
+Namibia,2000,900.0,
+Namibia,2005,800.0,
+Namibia,2010,600.0,11.93522
+Namibia,2011,,12.0992
+Namibia,2012,,12.16913
+Namibia,2013,,11.85483
+Namibia,2014,,11.9326
+Namibia,2015,600.0,11.87753
+Namibia,2016,,11.90338
+Namibia,2017,,11.97733
+Namibia,2018,,11.88239
+Namibia,2019,,11.81074
+Nauru,2010,,7.4968
+Nauru,2011,,7.57982
+Nauru,2012,,7.4037
+Nauru,2013,,7.37316
+Nauru,2014,,7.1829
+Nauru,2015,,7.27544
+Nauru,2016,,7.33435
+Nauru,2017,,7.44854
+Nauru,2018,,7.59188
+Nauru,2019,,7.40486
+Nepal,1990,16500.0,
+Nepal,1995,16000.0,
+Nepal,2000,14800.0,
+Nepal,2005,15300.0,
+Nepal,2010,16000.0,39.77933
+Nepal,2011,,39.48479
+Nepal,2012,,40.43541
+Nepal,2013,,41.79461
+Nepal,2014,,40.29809
+Nepal,2015,18300.0,39.81822
+Nepal,2016,,38.42945
+Nepal,2017,,36.76309
+Nepal,2018,,40.05945
+Nepal,2019,,36.43171
+Netherlands,1990,8200.0,
+Netherlands,1995,8100.0,
+Netherlands,2000,7800.0,
+Netherlands,2005,6900.0,
+Netherlands,2010,6500.0,15.01226
+Netherlands,2011,,15.53418
+Netherlands,2012,,13.74709
+Netherlands,2013,,13.19624
+Netherlands,2014,,12.48643
+Netherlands,2015,6800.0,12.58504
+Netherlands,2016,,11.59958
+Netherlands,2017,,11.62645
+Netherlands,2018,,11.48585
+Netherlands,2019,,10.7416
+New Zealand,1990,800.0,
+New Zealand,1995,800.0,
+New Zealand,2000,700.0,
+New Zealand,2005,700.0,
+New Zealand,2010,600.0,9.34902
+New Zealand,2011,,8.54013
+New Zealand,2012,,7.67365
+New Zealand,2013,,7.50781
+New Zealand,2014,,7.19456
+New Zealand,2015,600.0,6.93597
+New Zealand,2016,,6.90511
+New Zealand,2017,,7.14232
+New Zealand,2018,,7.44725
+New Zealand,2019,,8.60929
+Nicaragua,1990,800.0,
+Nicaragua,1995,800.0,
+Nicaragua,2000,800.0,
+Nicaragua,2005,1000.0,
+Nicaragua,2010,1000.0,19.92137
+Nicaragua,2011,,20.95415
+Nicaragua,2012,,20.1217
+Nicaragua,2013,,21.2362
+Nicaragua,2014,,20.25059
+Nicaragua,2015,1200.0,20.60811
+Nicaragua,2016,,19.55939
+Nicaragua,2017,,18.43793
+Nicaragua,2018,,17.24307
+Nicaragua,2019,,16.00181
+Niger,1990,11900.0,
+Niger,1995,12800.0,
+Niger,2000,12700.0,
+Niger,2005,11900.0,
+Niger,2010,11500.0,49.54739
+Niger,2011,,49.57459
+Niger,2012,,49.83186
+Niger,2013,,47.72282
+Niger,2014,,48.79553
+Niger,2015,10600.0,52.86639
+Niger,2016,,52.51137
+Niger,2017,,52.41127
+Niger,2018,,50.74433
+Niger,2019,,50.15037
+Nigeria,1990,76800.0,
+Nigeria,1995,78900.0,
+Nigeria,2000,79400.0,
+Nigeria,2005,67700.0,
+Nigeria,2010,59800.0,52.84583
+Nigeria,2011,,53.70578
+Nigeria,2012,,54.53055
+Nigeria,2013,,52.88635
+Nigeria,2014,,53.95678
+Nigeria,2015,50900.0,57.2825
+Nigeria,2016,,57.1711
+Nigeria,2017,,57.45214
+Nigeria,2018,,56.52002
+Nigeria,2019,,55.64206
+Niue,2010,,6.44213
+Niue,2011,,6.34358
+Niue,2012,,6.43149
+Niue,2013,,6.40683
+Niue,2014,,6.51817
+Niue,2015,,6.52981
+Niue,2016,,6.75023
+Niue,2017,,6.64027
+Niue,2018,,6.7349
+Niue,2019,,6.74203
+North Korea,1990,9200.0,
+North Korea,1995,11000.0,
+North Korea,2000,13100.0,
+North Korea,2005,15100.0,
+North Korea,2010,16500.0,50.40548
+North Korea,2011,,55.17787
+North Korea,2012,,56.46034
+North Korea,2013,,68.48237
+North Korea,2014,,60.0937
+North Korea,2015,18800.0,56.44233
+North Korea,2016,,51.03666
+North Korea,2017,,50.32324
+North Korea,2018,,43.532
+North Korea,2019,,41.46032
+North Macedonia,1990,1500.0,
+North Macedonia,1995,1500.0,
+North Macedonia,2000,1500.0,
+North Macedonia,2005,1500.0,
+North Macedonia,2010,1600.0,34.53379
+North Macedonia,2011,,36.51749
+North Macedonia,2012,,33.87751
+North Macedonia,2013,,30.87741
+North Macedonia,2014,,30.38281
+North Macedonia,2015,1600.0,29.51055
+North Macedonia,2016,,28.22692
+North Macedonia,2017,,29.25548
+North Macedonia,2018,,30.05632
+North Macedonia,2019,,25.16804
+Northern Africa and Western Asia (UN),2010,,35.18342
+Northern Africa and Western Asia (UN),2011,,35.07014
+Northern Africa and Western Asia (UN),2012,,35.56683
+Northern Africa and Western Asia (UN),2013,,35.46949
+Northern Africa and Western Asia (UN),2014,,34.86758
+Northern Africa and Western Asia (UN),2015,,35.83268
+Northern Africa and Western Asia (UN),2016,,35.53558
+Northern Africa and Western Asia (UN),2017,,35.94769
+Northern Africa and Western Asia (UN),2018,,36.10581
+Northern Africa and Western Asia (UN),2019,,35.94189
+Northern America and Europe (UN),2010,,13.69349
+Northern America and Europe (UN),2011,,13.6621
+Northern America and Europe (UN),2012,,12.64094
+Northern America and Europe (UN),2013,,12.29875
+Northern America and Europe (UN),2014,,11.97128
+Northern America and Europe (UN),2015,,11.63735
+Northern America and Europe (UN),2016,,10.70538
+Northern America and Europe (UN),2017,,10.84737
+Northern America and Europe (UN),2018,,11.13306
+Northern America and Europe (UN),2019,,10.04155
+Norway,1990,2300.0,
+Norway,1995,2100.0,
+Norway,2000,1800.0,
+Norway,2005,1500.0,
+Norway,2010,1400.0,7.86369
+Norway,2011,,8.32307
+Norway,2012,,7.32541
+Norway,2013,,7.13364
+Norway,2014,,6.61816
+Norway,2015,1400.0,6.8203
+Norway,2016,,6.32693
+Norway,2017,,6.36199
+Norway,2018,,6.33232
+Norway,2019,,6.30111
+Oceania (exc. Australia and New Zealand) (UN),2010,,8.31275
+Oceania (exc. Australia and New Zealand) (UN),2011,,8.03704
+Oceania (exc. Australia and New Zealand) (UN),2012,,8.1255
+Oceania (exc. Australia and New Zealand) (UN),2013,,8.14817
+Oceania (exc. Australia and New Zealand) (UN),2014,,8.15123
+Oceania (exc. Australia and New Zealand) (UN),2015,,8.6194
+Oceania (exc. Australia and New Zealand) (UN),2016,,8.42052
+Oceania (exc. Australia and New Zealand) (UN),2017,,8.56436
+Oceania (exc. Australia and New Zealand) (UN),2018,,8.63677
+Oceania (exc. Australia and New Zealand) (UN),2019,,8.58667
+Oman,1990,500.0,
+Oman,1995,500.0,
+Oman,2000,500.0,
+Oman,2005,500.0,
+Oman,2010,700.0,35.53593
+Oman,2011,,35.90277
+Oman,2012,,36.9132
+Oman,2013,,36.20723
+Oman,2014,,34.69059
+Oman,2015,900.0,35.84203
+Oman,2016,,35.53841
+Oman,2017,,35.99423
+Oman,2018,,36.67529
+Oman,2019,,34.88286
+Pakistan,1990,82300.0,
+Pakistan,1995,98200.0,
+Pakistan,2000,110800.0,
+Pakistan,2005,115700.0,
+Pakistan,2010,123600.0,56.40357
+Pakistan,2011,,55.33722
+Pakistan,2012,,56.29123
+Pakistan,2013,,59.05498
+Pakistan,2014,,56.2618
+Pakistan,2015,135100.0,55.89503
+Pakistan,2016,,53.65099
+Pakistan,2017,,51.97565
+Pakistan,2018,,56.50438
+Pakistan,2019,,50.13067
+Palau,2010,,7.22831
+Palau,2011,,7.60687
+Palau,2012,,7.77952
+Palau,2013,,7.77074
+Palau,2014,,7.75975
+Palau,2015,,8.01579
+Palau,2016,,7.58828
+Palau,2017,,7.49994
+Palau,2018,,7.77358
+Palau,2019,,7.82424
+Palestine,1990,400.0,
+Palestine,1995,400.0,
+Palestine,2000,500.0,
+Palestine,2005,600.0,
+Palestine,2010,800.0,29.4186
+Palestine,2011,,28.7703
+Palestine,2012,,29.45407
+Palestine,2013,,29.84821
+Palestine,2014,,30.03145
+Palestine,2015,1000.0,30.4868
+Palestine,2016,,30.29228
+Palestine,2017,,29.81358
+Palestine,2018,,30.51881
+Palestine,2019,,30.8191
+Panama,1990,500.0,
+Panama,1995,500.0,
+Panama,2000,500.0,
+Panama,2005,600.0,
+Panama,2010,600.0,14.12765
+Panama,2011,,14.78085
+Panama,2012,,14.52209
+Panama,2013,,15.21319
+Panama,2014,,14.51812
+Panama,2015,800.0,14.86951
+Panama,2016,,14.03824
+Panama,2017,,13.38493
+Panama,2018,,12.37203
+Panama,2019,,11.77915
+Papua New Guinea,1990,2000.0,
+Papua New Guinea,1995,2100.0,
+Papua New Guinea,2000,2500.0,
+Papua New Guinea,2005,2500.0,
+Papua New Guinea,2010,2400.0,8.65084
+Papua New Guinea,2011,,8.27803
+Papua New Guinea,2012,,8.38956
+Papua New Guinea,2013,,8.38809
+Papua New Guinea,2014,,8.38693
+Papua New Guinea,2015,3000.0,8.96576
+Papua New Guinea,2016,,8.68582
+Papua New Guinea,2017,,8.8705
+Papua New Guinea,2018,,8.92571
+Papua New Guinea,2019,,8.88558
+Paraguay,1990,1000.0,
+Paraguay,1995,1200.0,
+Paraguay,2000,1300.0,
+Paraguay,2005,1400.0,
+Paraguay,2010,1500.0,16.36973
+Paraguay,2011,,15.8887
+Paraguay,2012,,15.26003
+Paraguay,2013,,14.33518
+Paraguay,2014,,14.08261
+Paraguay,2015,1600.0,13.00169
+Paraguay,2016,,13.26532
+Paraguay,2017,,16.35836
+Paraguay,2018,,12.1112
+Paraguay,2019,,12.30993
+Peru,1990,8200.0,
+Peru,1995,8300.0,
+Peru,2000,7700.0,
+Peru,2005,8600.0,
+Peru,2010,7700.0,29.59087
+Peru,2011,,28.47326
+Peru,2012,,29.99227
+Peru,2013,,30.46651
+Peru,2014,,31.47109
+Peru,2015,8400.0,30.28824
+Peru,2016,,29.48786
+Peru,2017,,27.75851
+Peru,2018,,28.81163
+Peru,2019,,29.06587
+Philippines,1990,22800.0,
+Philippines,1995,23400.0,
+Philippines,2000,26400.0,
+Philippines,2005,33300.0,
+Philippines,2010,36200.0,23.81843
+Philippines,2011,,22.13145
+Philippines,2012,,23.35276
+Philippines,2013,,24.20666
+Philippines,2014,,21.54303
+Philippines,2015,40600.0,22.05308
+Philippines,2016,,23.90306
+Philippines,2017,,21.62402
+Philippines,2018,,21.51733
+Philippines,2019,,22.45141
+Poland,1990,41900.0,
+Poland,1995,36200.0,
+Poland,2000,29800.0,
+Poland,2005,28100.0,
+Poland,2010,29400.0,26.32189
+Poland,2011,,27.01823
+Poland,2012,,24.46697
+Poland,2013,,23.36101
+Poland,2014,,23.45474
+Poland,2015,27900.0,22.58791
+Poland,2016,,21.34448
+Poland,2017,,21.9609
+Poland,2018,,22.51081
+Poland,2019,,18.82808
+Portugal,1990,4400.0,
+Portugal,1995,4400.0,
+Portugal,2000,4300.0,
+Portugal,2005,4000.0,
+Portugal,2010,3600.0,10.54772
+Portugal,2011,,10.67923
+Portugal,2012,,9.43022
+Portugal,2013,,9.44265
+Portugal,2014,,7.8954
+Portugal,2015,3700.0,8.67534
+Portugal,2016,,8.41931
+Portugal,2017,,9.03849
+Portugal,2018,,7.89586
+Portugal,2019,,7.34244
+Qatar,1990,100.0,
+Qatar,1995,100.0,
+Qatar,2000,200.0,
+Qatar,2005,200.0,
+Qatar,2010,200.0,64.27163
+Qatar,2011,,63.84025
+Qatar,2012,,63.83774
+Qatar,2013,,61.36537
+Qatar,2014,,58.29297
+Qatar,2015,200.0,65.9073
+Qatar,2016,,61.29524
+Qatar,2017,,63.11193
+Qatar,2018,,62.6647
+Qatar,2019,,59.03746
+Romania,1990,24300.0,
+Romania,1995,24300.0,
+Romania,2000,20700.0,
+Romania,2005,18400.0,
+Romania,2010,19100.0,18.05504
+Romania,2011,,18.67849
+Romania,2012,,16.96099
+Romania,2013,,15.95671
+Romania,2014,,15.96018
+Romania,2015,18100.0,15.41342
+Romania,2016,,14.84775
+Romania,2017,,15.3241
+Romania,2018,,15.59612
+Romania,2019,,13.30043
+Russia,1990,133200.0,
+Russia,1995,162000.0,
+Russia,2000,157300.0,
+Russia,2005,157700.0,
+Russia,2010,138100.0,11.8813
+Russia,2011,,10.52571
+Russia,2012,,10.22086
+Russia,2013,,10.46019
+Russia,2014,,10.79947
+Russia,2015,136900.0,9.48913
+Russia,2016,,8.71282
+Russia,2017,,8.38309
+Russia,2018,,9.22426
+Russia,2019,,8.88468
+Rwanda,1990,5600.0,
+Rwanda,1995,6200.0,
+Rwanda,2000,6500.0,
+Rwanda,2005,4300.0,
+Rwanda,2010,3600.0,34.39619
+Rwanda,2011,,34.80846
+Rwanda,2012,,35.33117
+Rwanda,2013,,34.87908
+Rwanda,2014,,34.9263
+Rwanda,2015,4200.0,34.68945
+Rwanda,2016,,34.97191
+Rwanda,2017,,34.7134
+Rwanda,2018,,34.91829
+Rwanda,2019,,35.65776
+Saint Kitts and Nevis,2010,,7.9259
+Saint Kitts and Nevis,2011,,7.52631
+Saint Kitts and Nevis,2012,,7.91165
+Saint Kitts and Nevis,2013,,7.75147
+Saint Kitts and Nevis,2014,,8.21795
+Saint Kitts and Nevis,2015,,8.59294
+Saint Kitts and Nevis,2016,,8.65734
+Saint Kitts and Nevis,2017,,8.96676
+Saint Kitts and Nevis,2018,,8.59213
+Saint Kitts and Nevis,2019,,8.05126
+Saint Lucia,1990,100.0,
+Saint Lucia,1995,100.0,
+Saint Lucia,2000,100.0,
+Saint Lucia,2005,100.0,
+Saint Lucia,2010,,8.42728
+Saint Lucia,2011,,8.33712
+Saint Lucia,2012,,8.81156
+Saint Lucia,2013,,8.55295
+Saint Lucia,2014,,9.10296
+Saint Lucia,2015,100.0,9.61662
+Saint Lucia,2016,,9.56065
+Saint Lucia,2017,,10.02694
+Saint Lucia,2018,,9.50754
+Saint Lucia,2019,,8.97661
+Saint Vincent and the Grenadines,2010,,8.85366
+Saint Vincent and the Grenadines,2011,,8.74973
+Saint Vincent and the Grenadines,2012,,9.23302
+Saint Vincent and the Grenadines,2013,,8.97443
+Saint Vincent and the Grenadines,2014,,9.55157
+Saint Vincent and the Grenadines,2015,,10.09276
+Saint Vincent and the Grenadines,2016,,10.05366
+Saint Vincent and the Grenadines,2017,,10.49894
+Saint Vincent and the Grenadines,2018,,9.94237
+Saint Vincent and the Grenadines,2019,,9.41283
+Samoa,2010,,7.40466
+Samoa,2011,,7.48468
+Samoa,2012,,7.55718
+Samoa,2013,,7.63588
+Samoa,2014,,7.55472
+Samoa,2015,,7.75524
+Samoa,2016,,7.61736
+Samoa,2017,,7.67308
+Samoa,2018,,7.77359
+Samoa,2019,,7.77989
+San Marino,2010,,13.01652
+San Marino,2011,,13.43533
+San Marino,2012,,12.11762
+San Marino,2013,,11.72033
+San Marino,2014,,10.99926
+San Marino,2015,,11.41735
+San Marino,2016,,10.32921
+San Marino,2017,,10.55104
+San Marino,2018,,10.80798
+San Marino,2019,,9.84868
+Sao Tome and Principe,2000,100.0,
+Sao Tome and Principe,2005,100.0,
+Sao Tome and Principe,2010,,31.73907
+Sao Tome and Principe,2011,,32.57917
+Sao Tome and Principe,2012,,33.15825
+Sao Tome and Principe,2013,,32.41367
+Sao Tome and Principe,2014,,32.11853
+Sao Tome and Principe,2015,,33.99913
+Sao Tome and Principe,2016,,34.44868
+Sao Tome and Principe,2017,,33.6171
+Sao Tome and Principe,2018,,33.8403
+Sao Tome and Principe,2019,,33.74991
+Saudi Arabia,1990,4100.0,
+Saudi Arabia,1995,4600.0,
+Saudi Arabia,2000,5200.0,
+Saudi Arabia,2005,5800.0,
+Saudi Arabia,2010,7000.0,56.55127
+Saudi Arabia,2011,,56.6517
+Saudi Arabia,2012,,58.60077
+Saudi Arabia,2013,,57.09528
+Saudi Arabia,2014,,52.95536
+Saudi Arabia,2015,8000.0,58.47575
+Saudi Arabia,2016,,55.75664
+Saudi Arabia,2017,,58.46789
+Saudi Arabia,2018,,58.30433
+Saudi Arabia,2019,,57.15638
+Senegal,1990,3600.0,
+Senegal,1995,4000.0,
+Senegal,2000,4300.0,
+Senegal,2005,3800.0,
+Senegal,2010,4200.0,36.73364
+Senegal,2011,,37.61465
+Senegal,2012,,38.97932
+Senegal,2013,,36.88208
+Senegal,2014,,37.6937
+Senegal,2015,5000.0,39.90025
+Senegal,2016,,38.67131
+Senegal,2017,,39.88987
+Senegal,2018,,39.07941
+Senegal,2019,,38.21284
+Serbia,1990,6800.0,
+Serbia,1995,7800.0,
+Serbia,2000,8400.0,
+Serbia,2005,7700.0,
+Serbia,2010,7600.0,29.42471
+Serbia,2011,,30.67586
+Serbia,2012,,27.87856
+Serbia,2013,,26.16852
+Serbia,2014,,26.27462
+Serbia,2015,7200.0,25.33298
+Serbia,2016,,24.24702
+Serbia,2017,,24.95485
+Serbia,2018,,25.86499
+Serbia,2019,,21.73909
+Seychelles,2010,,17.8967
+Seychelles,2011,,16.78684
+Seychelles,2012,,17.82111
+Seychelles,2013,,18.27263
+Seychelles,2014,,16.23041
+Seychelles,2015,,16.50973
+Seychelles,2016,,18.15396
+Seychelles,2017,,16.36962
+Seychelles,2018,,16.48274
+Seychelles,2019,,16.95663
+Sierra Leone,1990,2300.0,
+Sierra Leone,1995,2100.0,
+Sierra Leone,2000,2000.0,
+Sierra Leone,2005,2100.0,
+Sierra Leone,2010,2300.0,36.32017
+Sierra Leone,2011,,37.26171
+Sierra Leone,2012,,41.09574
+Sierra Leone,2013,,37.75351
+Sierra Leone,2014,,40.53461
+Sierra Leone,2015,1900.0,42.52948
+Sierra Leone,2016,,40.62177
+Sierra Leone,2017,,40.24941
+Sierra Leone,2018,,39.46253
+Sierra Leone,2019,,39.4217
+Singapore,1990,1100.0,
+Singapore,1995,1200.0,
+Singapore,2000,1200.0,
+Singapore,2005,1600.0,
+Singapore,2010,1400.0,16.89388
+Singapore,2011,,16.53947
+Singapore,2012,,15.20339
+Singapore,2013,,16.58208
+Singapore,2014,,16.62945
+Singapore,2015,1700.0,16.15997
+Singapore,2016,,15.48455
+Singapore,2017,,14.23202
+Singapore,2018,,13.12328
+Singapore,2019,,13.33302
+Slovakia,1990,5600.0,
+Slovakia,1995,4700.0,
+Slovakia,2000,4300.0,
+Slovakia,2005,4100.0,
+Slovakia,2010,3900.0,21.69566
+Slovakia,2011,,22.65742
+Slovakia,2012,,20.27122
+Slovakia,2013,,19.47218
+Slovakia,2014,,19.52392
+Slovakia,2015,3500.0,19.04978
+Slovakia,2016,,17.98092
+Slovakia,2017,,18.4938
+Slovakia,2018,,19.07598
+Slovakia,2019,,15.89146
+Slovenia,1990,1200.0,
+Slovenia,1995,1100.0,
+Slovenia,2000,1000.0,
+Slovenia,2005,900.0,
+Slovenia,2010,900.0,19.68829
+Slovenia,2011,,20.54985
+Slovenia,2012,,18.73253
+Slovenia,2013,,17.98375
+Slovenia,2014,,17.91433
+Slovenia,2015,1000.0,17.55293
+Slovenia,2016,,16.73609
+Slovenia,2017,,17.08411
+Slovenia,2018,,17.77099
+Slovenia,2019,,14.07638
+Solomon Islands,1990,100.0,
+Solomon Islands,1995,100.0,
+Solomon Islands,2000,100.0,
+Solomon Islands,2005,100.0,
+Solomon Islands,2010,100.0,7.41903
+Solomon Islands,2011,,7.37153
+Solomon Islands,2012,,7.42724
+Solomon Islands,2013,,7.54031
+Solomon Islands,2014,,7.61513
+Solomon Islands,2015,100.0,7.85858
+Solomon Islands,2016,,7.75892
+Solomon Islands,2017,,7.79642
+Solomon Islands,2018,,7.94788
+Solomon Islands,2019,,7.8289
+Somalia,1990,4000.0,
+Somalia,1995,3900.0,
+Somalia,2000,4200.0,
+Somalia,2005,3700.0,
+Somalia,2010,4200.0,14.3522
+Somalia,2011,,14.47293
+Somalia,2012,,14.60625
+Somalia,2013,,14.26601
+Somalia,2014,,14.25288
+Somalia,2015,4300.0,14.22371
+Somalia,2016,,14.39752
+Somalia,2017,,14.49673
+Somalia,2018,,14.4512
+Somalia,2019,,14.27733
+South Africa,1990,20600.0,
+South Africa,1995,22300.0,
+South Africa,2000,28400.0,
+South Africa,2005,28000.0,
+South Africa,2010,23300.0,18.69321
+South Africa,2011,,18.66777
+South Africa,2012,,18.67658
+South Africa,2013,,18.81701
+South Africa,2014,,18.9779
+South Africa,2015,24900.0,19.13945
+South Africa,2016,,19.07406
+South Africa,2017,,19.37741
+South Africa,2018,,19.52362
+South Africa,2019,,19.74802
+South Korea,1990,15100.0,
+South Korea,1995,13700.0,
+South Korea,2000,13100.0,
+South Korea,2005,13100.0,
+South Korea,2010,13800.0,29.83355
+South Korea,2011,,29.35337
+South Korea,2012,,26.17924
+South Korea,2013,,28.54048
+South Korea,2014,,28.95136
+South Korea,2015,18200.0,27.60665
+South Korea,2016,,27.25594
+South Korea,2017,,25.81438
+South Korea,2018,,23.69667
+South Korea,2019,,24.03774
+South Sudan,1990,4200.0,
+South Sudan,1995,3600.0,
+South Sudan,2000,3600.0,
+South Sudan,2005,3500.0,
+South Sudan,2010,4500.0,21.21051
+South Sudan,2011,,21.82681
+South Sudan,2012,,21.91677
+South Sudan,2013,,21.54355
+South Sudan,2014,,21.23758
+South Sudan,2015,5500.0,22.0609
+South Sudan,2016,,22.37394
+South Sudan,2017,,21.63901
+South Sudan,2018,,21.9397
+South Sudan,2019,,20.18219
+South-East Asia (WHO),2010,,47.65426
+South-East Asia (WHO),2011,,47.31515
+South-East Asia (WHO),2012,,48.1556
+South-East Asia (WHO),2013,,50.35609
+South-East Asia (WHO),2014,,47.99703
+South-East Asia (WHO),2015,,47.7425
+South-East Asia (WHO),2016,,46.11154
+South-East Asia (WHO),2017,,44.26394
+South-East Asia (WHO),2018,,47.47836
+South-East Asia (WHO),2019,,43.59033
+Spain,1990,13900.0,
+Spain,1995,14100.0,
+Spain,2000,14300.0,
+Spain,2005,14000.0,
+Spain,2010,12800.0,12.71701
+Spain,2011,,13.08877
+Spain,2012,,11.8292
+Spain,2013,,11.21636
+Spain,2014,,10.30841
+Spain,2015,13400.0,11.11022
+Spain,2016,,10.03888
+Spain,2017,,10.20704
+Spain,2018,,10.07741
+Spain,2019,,9.3416
+Sri Lanka,1990,6000.0,
+Sri Lanka,1995,6200.0,
+Sri Lanka,2000,7100.0,
+Sri Lanka,2005,8200.0,
+Sri Lanka,2010,7400.0,24.99107
+Sri Lanka,2011,,23.20591
+Sri Lanka,2012,,24.60746
+Sri Lanka,2013,,25.47886
+Sri Lanka,2014,,22.65567
+Sri Lanka,2015,7700.0,23.08327
+Sri Lanka,2016,,25.46074
+Sri Lanka,2017,,22.98816
+Sri Lanka,2018,,23.12285
+Sri Lanka,2019,,23.87759
+Sub-Saharan Africa (UN),2010,,31.79272
+Sub-Saharan Africa (UN),2011,,32.11836
+Sub-Saharan Africa (UN),2012,,32.52763
+Sub-Saharan Africa (UN),2013,,31.71878
+Sub-Saharan Africa (UN),2014,,32.01954
+Sub-Saharan Africa (UN),2015,,33.62414
+Sub-Saharan Africa (UN),2016,,33.60248
+Sub-Saharan Africa (UN),2017,,33.39716
+Sub-Saharan Africa (UN),2018,,33.14215
+Sub-Saharan Africa (UN),2019,,32.69679
+Sudan,1990,15700.0,
+Sudan,1995,17600.0,
+Sudan,2000,17400.0,
+Sudan,2005,17800.0,
+Sudan,2010,18900.0,22.00686
+Sudan,2011,,22.61182
+Sudan,2012,,22.60951
+Sudan,2013,,21.93584
+Sudan,2014,,21.39796
+Sudan,2015,19200.0,22.55149
+Sudan,2016,,22.41052
+Sudan,2017,,22.73444
+Sudan,2018,,21.88573
+Sudan,2019,,21.42613
+Suriname,1990,100.0,
+Suriname,1995,200.0,
+Suriname,2000,200.0,
+Suriname,2005,100.0,
+Suriname,2010,100.0,11.35987
+Suriname,2011,,11.12067
+Suriname,2012,,11.85823
+Suriname,2013,,11.46335
+Suriname,2014,,12.23399
+Suriname,2015,200.0,12.95795
+Suriname,2016,,12.90374
+Suriname,2017,,13.30251
+Suriname,2018,,12.7537
+Suriname,2019,,12.17056
+Sweden,1990,3100.0,
+Sweden,1995,2700.0,
+Sweden,2000,2400.0,
+Sweden,2005,1800.0,
+Sweden,2010,1700.0,7.51618
+Sweden,2011,,7.75897
+Sweden,2012,,6.90251
+Sweden,2013,,6.61276
+Sweden,2014,,6.2991
+Sweden,2015,2200.0,6.37266
+Sweden,2016,,5.87894
+Sweden,2017,,5.92993
+Sweden,2018,,6.09387
+Sweden,2019,,5.95539
+Switzerland,1990,3000.0,
+Switzerland,1995,2800.0,
+Switzerland,2000,2600.0,
+Switzerland,2005,2300.0,
+Switzerland,2010,2200.0,12.7588
+Switzerland,2011,,13.00391
+Switzerland,2012,,11.73932
+Switzerland,2013,,11.383
+Switzerland,2014,,10.50995
+Switzerland,2015,2500.0,10.81907
+Switzerland,2016,,9.98995
+Switzerland,2017,,9.88915
+Switzerland,2018,,10.01045
+Switzerland,2019,,8.96682
+Syria,1990,4800.0,
+Syria,1995,4700.0,
+Syria,2000,4900.0,
+Syria,2005,5100.0,
+Syria,2010,6400.0,25.07604
+Syria,2011,,24.6198
+Syria,2012,,24.69551
+Syria,2013,,24.45901
+Syria,2014,,24.12911
+Syria,2015,6600.0,24.75272
+Syria,2016,,24.43168
+Syria,2017,,24.82528
+Syria,2018,,25.1301
+Syria,2019,,25.14079
+Taiwan,1990,6100.0,
+Taiwan,1995,6600.0,
+Taiwan,2000,7100.0,
+Taiwan,2005,8400.0,
+Taiwan,2010,9600.0,
+Taiwan,2015,10900.0,
+Tajikistan,1990,6000.0,
+Tajikistan,1995,5700.0,
+Tajikistan,2000,4900.0,
+Tajikistan,2005,4000.0,
+Tajikistan,2010,4100.0,63.40423
+Tajikistan,2011,,71.80428
+Tajikistan,2012,,71.50028
+Tajikistan,2013,,67.16655
+Tajikistan,2014,,63.46351
+Tajikistan,2015,4000.0,63.27915
+Tajikistan,2016,,62.72654
+Tajikistan,2017,,59.38627
+Tajikistan,2018,,58.57753
+Tajikistan,2019,,53.64558
+Tanzania,1990,10400.0,
+Tanzania,1995,11400.0,
+Tanzania,2000,11400.0,
+Tanzania,2005,11000.0,
+Tanzania,2010,11600.0,15.45167
+Tanzania,2011,,15.32795
+Tanzania,2012,,15.55412
+Tanzania,2013,,15.36198
+Tanzania,2014,,15.34867
+Tanzania,2015,13700.0,15.59429
+Tanzania,2016,,15.60301
+Tanzania,2017,,15.19631
+Tanzania,2018,,15.4112
+Tanzania,2019,,15.36389
+Thailand,1990,17700.0,
+Thailand,1995,21700.0,
+Thailand,2000,25300.0,
+Thailand,2005,26100.0,
+Thailand,2010,28500.0,26.36311
+Thailand,2011,,24.16447
+Thailand,2012,,25.65632
+Thailand,2013,,26.61528
+Thailand,2014,,23.6639
+Thailand,2015,37600.0,24.10254
+Thailand,2016,,26.42045
+Thailand,2017,,23.54318
+Thailand,2018,,23.68253
+Thailand,2019,,24.63927
+Timor-Leste,1990,300.0,
+Timor-Leste,1995,300.0,
+Timor-Leste,2000,300.0,
+Timor-Leste,2005,300.0,
+Timor-Leste,2010,300.0,
+Timor-Leste,2015,300.0,
+Togo,1990,2300.0,
+Togo,1995,2500.0,
+Togo,2000,2700.0,
+Togo,2005,2500.0,
+Togo,2010,2500.0,34.98097
+Togo,2011,,35.81539
+Togo,2012,,35.95685
+Togo,2013,,34.79041
+Togo,2014,,34.92123
+Togo,2015,2500.0,38.24957
+Togo,2016,,37.52358
+Togo,2017,,37.25126
+Togo,2018,,36.83061
+Togo,2019,,35.65757
+Tonga,2010,,7.14405
+Tonga,2011,,7.05185
+Tonga,2012,,7.1031
+Tonga,2013,,7.09433
+Tonga,2014,,7.20356
+Tonga,2015,,7.25668
+Tonga,2016,,7.39788
+Tonga,2017,,7.38038
+Tonga,2018,,7.46988
+Tonga,2019,,7.52079
+Trinidad and Tobago,1990,500.0,
+Trinidad and Tobago,1995,500.0,
+Trinidad and Tobago,2000,500.0,
+Trinidad and Tobago,2005,400.0,
+Trinidad and Tobago,2010,400.0,9.79285
+Trinidad and Tobago,2011,,9.44151
+Trinidad and Tobago,2012,,9.97297
+Trinidad and Tobago,2013,,9.79067
+Trinidad and Tobago,2014,,10.34355
+Trinidad and Tobago,2015,500.0,10.94219
+Trinidad and Tobago,2016,,10.95355
+Trinidad and Tobago,2017,,11.27068
+Trinidad and Tobago,2018,,10.71643
+Trinidad and Tobago,2019,,10.26482
+Tunisia,1990,2600.0,
+Tunisia,1995,3000.0,
+Tunisia,2000,3100.0,
+Tunisia,2005,3000.0,
+Tunisia,2010,3600.0,26.67751
+Tunisia,2011,,25.54363
+Tunisia,2012,,25.40391
+Tunisia,2013,,25.75134
+Tunisia,2014,,27.01053
+Tunisia,2015,4500.0,26.13071
+Tunisia,2016,,27.58332
+Tunisia,2017,,26.13183
+Tunisia,2018,,27.21906
+Tunisia,2019,,26.52402
+Turkey,1990,31900.0,
+Turkey,1995,30500.0,
+Turkey,2000,27700.0,
+Turkey,2005,23600.0,
+Turkey,2010,21900.0,23.73719
+Turkey,2011,,23.27972
+Turkey,2012,,22.7553
+Turkey,2013,,23.0713
+Turkey,2014,,22.85719
+Turkey,2015,26700.0,22.95707
+Turkey,2016,,22.53114
+Turkey,2017,,22.88792
+Turkey,2018,,23.28703
+Turkey,2019,,23.25106
+Turkmenistan,1990,3500.0,
+Turkmenistan,1995,3700.0,
+Turkmenistan,2000,3800.0,
+Turkmenistan,2005,2900.0,
+Turkmenistan,2010,3100.0,31.48364
+Turkmenistan,2011,,35.85101
+Turkmenistan,2012,,35.59832
+Turkmenistan,2013,,33.52481
+Turkmenistan,2014,,31.92663
+Turkmenistan,2015,3100.0,31.44058
+Turkmenistan,2016,,31.22765
+Turkmenistan,2017,,29.49465
+Turkmenistan,2018,,29.17182
+Turkmenistan,2019,,26.40925
+Tuvalu,2010,,6.76436
+Tuvalu,2011,,6.94843
+Tuvalu,2012,,6.86974
+Tuvalu,2013,,6.81201
+Tuvalu,2014,,6.78081
+Tuvalu,2015,,6.94864
+Tuvalu,2016,,6.69649
+Tuvalu,2017,,6.84562
+Tuvalu,2018,,6.93967
+Tuvalu,2019,,6.80654
+Uganda,1990,10800.0,
+Uganda,1995,12300.0,
+Uganda,2000,13200.0,
+Uganda,2005,13200.0,
+Uganda,2010,13000.0,31.29329
+Uganda,2011,,31.4937
+Uganda,2012,,32.14039
+Uganda,2013,,31.79322
+Uganda,2014,,31.42753
+Uganda,2015,15100.0,31.65182
+Uganda,2016,,32.08328
+Uganda,2017,,31.27824
+Uganda,2018,,31.72916
+Uganda,2019,,31.31261
+Ukraine,1990,65000.0,
+Ukraine,1995,74000.0,
+Ukraine,2000,66000.0,
+Ukraine,2005,64800.0,
+Ukraine,2010,57700.0,17.81272
+Ukraine,2011,,16.5497
+Ukraine,2012,,15.61071
+Ukraine,2013,,15.98508
+Ukraine,2014,,16.58483
+Ukraine,2015,59000.0,14.66802
+Ukraine,2016,,13.33379
+Ukraine,2017,,12.93489
+Ukraine,2018,,14.23927
+Ukraine,2019,,13.50727
+United Arab Emirates,1990,500.0,
+United Arab Emirates,1995,600.0,
+United Arab Emirates,2000,700.0,
+United Arab Emirates,2005,900.0,
+United Arab Emirates,2010,1700.0,43.70844
+United Arab Emirates,2011,,43.53498
+United Arab Emirates,2012,,43.93421
+United Arab Emirates,2013,,42.88311
+United Arab Emirates,2014,,41.33546
+United Arab Emirates,2015,2600.0,43.92792
+United Arab Emirates,2016,,42.88604
+United Arab Emirates,2017,,43.32676
+United Arab Emirates,2018,,43.09622
+United Arab Emirates,2019,,41.7495
+United Kingdom,1990,42800.0,
+United Kingdom,1995,39600.0,
+United Kingdom,2000,34500.0,
+United Kingdom,2005,29100.0,
+United Kingdom,2010,26000.0,13.17134
+United Kingdom,2011,,13.41139
+United Kingdom,2012,,12.13746
+United Kingdom,2013,,11.82121
+United Kingdom,2014,,10.95413
+United Kingdom,2015,27200.0,11.08279
+United Kingdom,2016,,10.18747
+United Kingdom,2017,,10.09013
+United Kingdom,2018,,10.06647
+United Kingdom,2019,,9.51575
+United States,1990,106000.0,
+United States,1995,107200.0,
+United States,2000,106200.0,
+United States,2005,100000.0,
+United States,2010,83400.0,9.28664
+United States,2011,,9.36109
+United States,2012,,9.07419
+United States,2013,,8.75496
+United States,2014,,8.62258
+United States,2015,88400.0,8.31036
+United States,2016,,7.54403
+United States,2017,,7.95602
+United States,2018,,8.13413
+United States,2019,,7.17987
+Uruguay,1990,1500.0,
+Uruguay,1995,1600.0,
+Uruguay,2000,1500.0,
+Uruguay,2005,1400.0,
+Uruguay,2010,1400.0,9.18128
+Uruguay,2011,,9.19783
+Uruguay,2012,,9.034
+Uruguay,2013,,9.72178
+Uruguay,2014,,9.51708
+Uruguay,2015,1400.0,9.90392
+Uruguay,2016,,9.74647
+Uruguay,2017,,9.27199
+Uruguay,2018,,8.81777
+Uruguay,2019,,8.47571
+Uzbekistan,1990,15900.0,
+Uzbekistan,1995,17400.0,
+Uzbekistan,2000,16900.0,
+Uzbekistan,2005,16100.0,
+Uzbekistan,2010,16900.0,48.51926
+Uzbekistan,2011,,55.09954
+Uzbekistan,2012,,54.87665
+Uzbekistan,2013,,51.60295
+Uzbekistan,2014,,48.70482
+Uzbekistan,2015,17500.0,48.46156
+Uzbekistan,2016,,48.09068
+Uzbekistan,2017,,45.48117
+Uzbekistan,2018,,44.62058
+Uzbekistan,2019,,40.97948
+Vanuatu,1995,100.0,
+Vanuatu,2000,100.0,
+Vanuatu,2005,100.0,
+Vanuatu,2010,100.0,8.08733
+Vanuatu,2011,,8.2336
+Vanuatu,2012,,8.19068
+Vanuatu,2013,,8.31014
+Vanuatu,2014,,8.35515
+Vanuatu,2015,100.0,8.62408
+Vanuatu,2016,,8.6638
+Vanuatu,2017,,8.61743
+Vanuatu,2018,,8.80598
+Vanuatu,2019,,8.42148
+Venezuela,1990,5600.0,
+Venezuela,1995,6100.0,
+Venezuela,2000,6800.0,
+Venezuela,2005,7100.0,
+Venezuela,2010,7500.0,20.66606
+Venezuela,2011,,20.71004
+Venezuela,2012,,19.87092
+Venezuela,2013,,21.0044
+Venezuela,2014,,19.83872
+Venezuela,2015,9300.0,20.12396
+Venezuela,2016,,19.64719
+Venezuela,2017,,18.70915
+Venezuela,2018,,17.06222
+Venezuela,2019,,16.21392
+Vietnam,1990,26300.0,
+Vietnam,1995,29000.0,
+Vietnam,2000,31900.0,
+Vietnam,2005,35800.0,
+Vietnam,2010,37000.0,22.36823
+Vietnam,2011,,20.67487
+Vietnam,2012,,21.67103
+Vietnam,2013,,22.62388
+Vietnam,2014,,20.07941
+Vietnam,2015,42200.0,20.46553
+Vietnam,2016,,22.37486
+Vietnam,2017,,20.09941
+Vietnam,2018,,20.09202
+Vietnam,2019,,20.8923
+Western Pacific (WHO),2010,,40.5019
+Western Pacific (WHO),2011,,43.79521
+Western Pacific (WHO),2012,,44.85072
+Western Pacific (WHO),2013,,53.71691
+Western Pacific (WHO),2014,,46.21053
+Western Pacific (WHO),2015,,43.43547
+Western Pacific (WHO),2016,,40.52195
+Western Pacific (WHO),2017,,39.57542
+Western Pacific (WHO),2018,,34.67788
+Western Pacific (WHO),2019,,33.03099
+World,2010,,35.2778
+World,2011,,36.14984
+World,2012,,36.56894
+World,2013,,39.37527
+World,2014,,36.63018
+World,2015,,36.06115
+World,2016,,34.65158
+World,2017,,33.94279
+World,2018,,33.60898
+World,2019,,31.69578
+Yemen,1990,10000.0,
+Yemen,1995,12000.0,
+Yemen,2000,11200.0,
+Yemen,2005,10000.0,
+Yemen,2010,11000.0,38.82749
+Yemen,2011,,41.0284
+Yemen,2012,,42.48632
+Yemen,2013,,41.02003
+Yemen,2014,,38.27183
+Yemen,2015,12500.0,41.06106
+Yemen,2016,,39.90644
+Yemen,2017,,41.32087
+Yemen,2018,,41.6231
+Yemen,2019,,41.60944
+Zambia,1990,4300.0,
+Zambia,1995,5000.0,
+Zambia,2000,5500.0,
+Zambia,2005,5600.0,
+Zambia,2010,5600.0,17.08674
+Zambia,2011,,17.33064
+Zambia,2012,,17.55181
+Zambia,2013,,17.2438
+Zambia,2014,,17.29111
+Zambia,2015,5600.0,17.4341
+Zambia,2016,,17.31679
+Zambia,2017,,16.9852
+Zambia,2018,,16.98833
+Zambia,2019,,16.8967
+Zimbabwe,1990,2500.0,
+Zimbabwe,1995,2600.0,
+Zimbabwe,2000,3600.0,
+Zimbabwe,2005,4500.0,
+Zimbabwe,2010,4500.0,13.27519
+Zimbabwe,2011,,13.26777
+Zimbabwe,2012,,13.20859
+Zimbabwe,2013,,13.09511
+Zimbabwe,2014,,13.12364
+Zimbabwe,2015,3800.0,13.26748
+Zimbabwe,2016,,13.09256
+Zimbabwe,2017,,13.15097
+Zimbabwe,2018,,13.11527
+Zimbabwe,2019,,13.07553
