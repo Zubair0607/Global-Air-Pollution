@@ -35,14 +35,14 @@ fig, ax1 = plt.subplots(figsize=(12, 7))
 
 # Plot historical PM2.5 Levels as a line chart
 ax1.set_title("Global Trends and Forecasts: PM2.5 Levels and Health Impacts", fontsize=16)
-ax1.set_xlabel("Year", fontsize=12)
-ax1.set_ylabel("PM2.5 Levels (µg/m³)", fontsize=12, color="tab:blue")
+ax1.set_xlabel("Year", fontsize=15)
+ax1.set_ylabel("PM2.5 Levels (µg/m³)", fontsize=15, color="tab:blue")
 ax1.plot(merged_data["Year"], merged_data["PM2.5 Levels"], marker="o", label="PM2.5 Levels (Historical)", color="tab:blue", linewidth=2)
 ax1.plot(all_years.flatten(), forecast_pm25, "--", label="PM2.5 Levels (Forecast)", color="tab:blue", alpha=0.6)
 
 # Create a secondary Y-axis for deaths
 ax2 = ax1.twinx()
-ax2.set_ylabel("Deaths from PM2.5 (millions)", fontsize=12, color="tab:red")
+ax2.set_ylabel("Deaths from PM2.5 (millions)", fontsize=15, color="tab:red")
 ax2.bar(merged_data["Year"], merged_data["Deaths from PM2.5"] / 1_000_000, label="Deaths from PM2.5 (Historical)", color="tab:red", alpha=0.6, width=0.8)
 ax2.plot(all_years.flatten(), forecast_deaths / 1_000_000, "--", label="Deaths from PM2.5 (Forecast)", color="tab:red", alpha=0.6)
 
@@ -50,9 +50,6 @@ ax2.plot(all_years.flatten(), forecast_deaths / 1_000_000, "--", label="Deaths f
 ax1.legend(loc="upper left", fontsize=10)
 ax2.legend(loc="upper right", fontsize=10)
 
-# Enhance layout
 plt.grid(axis="y", linestyle="--", alpha=0.6)
 plt.tight_layout()
-
-# Show the plot
 plt.show()
