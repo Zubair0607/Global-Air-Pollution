@@ -34,7 +34,7 @@ forecast_deaths = model_deaths.predict(all_years)
 fig, ax1 = plt.subplots(figsize=(12, 7))
 
 # Plot historical PM2.5 Levels as a line chart
-ax1.set_title("Global Trends and Forecasts: PM2.5 Levels and Health Impacts", fontsize=16)
+ax1.set_title("Global Trends and Forecasts: PM2.5 Levels and Caused Deaths", fontsize=16)
 ax1.set_xlabel("Year", fontsize=15)
 ax1.set_ylabel("PM2.5 Levels (µg/m³)", fontsize=15, color="tab:blue")
 ax1.plot(merged_data["Year"], merged_data["PM2.5 Levels"], marker="o", label="PM2.5 Levels (Historical)", color="tab:blue", linewidth=2)
