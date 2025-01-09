@@ -32,7 +32,7 @@ plt.xlabel("PM2.5 Levels (µg/m³)", fontsize=12)
 plt.ylabel("Disease Burden (DALYs)", fontsize=12)
 plt.legend(fontsize=10)
 plt.grid(alpha=0.5)
-
 plt.tight_layout()
-plt.show()
 
+# Saving the figure
+plt.savefig('Visualisations/PM25 and its Health impacts.png', bbox_inches='tight')

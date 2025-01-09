@@ -26,6 +26,7 @@ world_pm25.plot(column="PM2.5 Levels", cmap="OrRd", legend=True,
                 ax=ax)
 ax.set_title("Global PM2.5 Levels by Country in 2021", fontsize=16)
 ax.axis("off")
-
 plt.tight_layout()
-plt.show()
+
+# Saving the figure
+plt.savefig('Visualisations/Global PM2.5 Levels.png', bbox_inches='tight')

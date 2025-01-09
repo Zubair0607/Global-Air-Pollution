@@ -52,4 +52,6 @@ ax2.legend(loc="upper right", fontsize=10)
 
 plt.grid(axis="y", linestyle="--", alpha=0.6)
 plt.tight_layout()
-plt.show()
+
+# Saving the figure
+plt.savefig('Visualisations/Global Trends in PM25.png', bbox_inches='tight')
