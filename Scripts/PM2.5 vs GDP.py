@@ -26,8 +26,3 @@ plt.grid(alpha=0.5)
 
 plt.tight_layout()
 plt.show()
-
-
-
-
-
