@@ -1,0 +1,16 @@
+Test Suite Description
+
+1. test_Dataset_merge
+- verifies that the datasets are loaded, cleaned, merged and saved correctly.
+
+2. test_Global_trends_in_PM25
+- verifies that the visualisation is created and that it is saved in the correct destination.
+
+3. test_PM25_and_its_Health_Impacts
+- verifies that the visualisation is created and that it is saved in the correct destination.
+
+4. test_PM25_vs_GDP
+- verifies that the visualisation is created and that it is saved in the correct destination.
+
+5. test_Global_PM25_Levels
+- verifies that the visualisation is created and that it is saved in the correct destination.
