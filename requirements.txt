@@ -1,0 +1,5 @@
+pandas
+numpy
+geopandas
+matplotlib.pyplot 
+sklearn.linear_model 
