@@ -2,4 +2,5 @@ pandas
 numpy
 geopandas
 matplotlib.pyplot 
-sklearn.linear_model 
+sklearn.linear_model
+pytest
