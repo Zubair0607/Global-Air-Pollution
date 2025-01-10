@@ -12,7 +12,7 @@ The central hypothesis is:
 - **`Scripts/`**: Contains all the code for dataset merging, analysis, and statistics.
 - **`Tests/`**: Contains all test files validated by CircleCI.
 - **`Visualisations/`**: Contains all visualisations linked to the analysis.
-- **`ne_110m_admin_0_countries/`**: Contains the world shapefile used for one of the visualsations.
+- **`ne_110m_admin_0_countries/`**: Contains the world shapefile used for one of the visualisations.
 - **`README.md/`**: Contains the project documentation
 - **`requirements.txt/`**: Lists Python dependencies needed to run the scripts.
 
