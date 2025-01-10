@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load the dataset
+# Loading the dataset
 pm25_df = pd.read_csv("Datasets/MAIN_pm25-trends.csv")
 
 # Clean the GDP column and convert it to numeric

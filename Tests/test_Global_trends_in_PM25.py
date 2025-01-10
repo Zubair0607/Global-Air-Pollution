@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 import numpy as np
 
 def load_data(file_path):
-    # Load the dataset from the file path.
+    # Load dataset from the file path.
     return pd.read_csv(file_path)
 
 def aggregate_data(df):

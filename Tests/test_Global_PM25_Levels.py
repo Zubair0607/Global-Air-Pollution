@@ -3,7 +3,7 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 
 def load_pm25_data(file_path):
-    # Load PM2.5 dataset from the given file path.
+    # Load PM2.5 dataset from the file path.
     return pd.read_csv(file_path)
 
 def load_world_shapefile(file_path):

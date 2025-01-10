@@ -2,7 +2,7 @@ import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
 
-# Load the dataset
+# Loading the dataset
 pm25_df = pd.read_csv("Datasets/MAIN_pm25-trends.csv")
 
 # Load a world shapefile

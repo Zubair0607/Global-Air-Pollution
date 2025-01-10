@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import numpy as np
 
-# Load the dataset
+# Loading the dataset
 pm25_df = pd.read_csv("Datasets/MAIN_pm25-trends.csv")
 
 # Aggregate PM2.5 levels and disease burden globally

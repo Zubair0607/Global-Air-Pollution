@@ -1,7 +1,7 @@
 import pandas as pd
 
 def load_data(file_paths):
-    # Load datasets from the given file path
+    # Load datasets from the file path
     dataframes = {}
     for name, path in file_paths.items():
         dataframes[name] = pd.read_csv(path)
